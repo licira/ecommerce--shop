@@ -1,0 +1,1154 @@
+carType,color,condition,currency,drive,city,country,make,manufacture_year,mileage,mileage_unit,model,model_variant,price_on_request,type,zip,manufacture_month,fuel_consumption_unit
+Limousine,silver met.,,,,Zuzwil,,Bmw,,27600.0,kilometer,745,745i,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Porsche,,52000.0,kilometer,911,911 Turbo Cabrio,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,39400.0,kilometer,911,911 Carrera S,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Maserati,,96000.0,kilometer,Quattroporte,Quattroporte 4.7 S,false,car,,,l_km_consumption
+Limousine,gray,,,,Zuzwil,,Jaguar,,32900.0,kilometer,S-type,S-Type 4.2 V8 S/C R,false,car,,,l_km_consumption
+Coupé,green,,,,Zuzwil,,Simca,,18200.0,kilometer,,Rallye2,false,car,,,
+Coupé,black,,,,Zuzwil,,Mercedes-benz,,25000.0,kilometer,Slk 55 amg,Black Series,false,car,,,
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Land rover,,9000.0,kilometer,Range rover,Range Rover 5.0 V8 SC,false,car,,,l_km_consumption
+Limousine,anthrazit,,,,Zuzwil,,Mercedes-benz,,31900.0,kilometer,E 320,E 320 Elégance 4-Matic,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Mercedes-benz,,19800.0,kilometer,Cl 65 amg,CL 65 AMG,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Talbot,,182200.0,kilometer,Matra,Murena 2.2,false,car,,,
+Coupé,black,,,,Zuzwil,,Lamborghini,,28500.0,kilometer,Gallardo,Gallardo LP560-4 Coupé,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Bmw,,34500.0,kilometer,M6,M6,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Bmw,,55000.0,kilometer,M6,M6,false,car,,,l_km_consumption
+Kombi,white met.,,,,Zuzwil,,Audi,,55000.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Aston martin,,24600.0,kilometer,V12 vanquish,Vanquish V12,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Sursee,,Mercedes-benz,,5000.0,kilometer,300,300SL W198,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,152000.0,kilometer,190,190 E 2.5-16 ABS,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Porsche,,53400.0,kilometer,911,911 GT2,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Renault,,14873.0,kilometer,R12,Gordini,false,car,,,
+SUV / Geländewagen,black met.,,,,Zuzwil,,Mercedes-benz,,1.0,kilometer,Ml 500,ML 500 4Matic,false,car,,,l_km_consumption
+Cabriolet,red,,,,Zuzwil,,Opel,,11700.0,kilometer,Speedster,Speedster 2.0 16V Turbo,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Saab,,104400.0,kilometer,9-3,9-3 2.0T Performance,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Mclaren,,55.0,kilometer,12c,MP4-12C 3.8 V8,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Audi,,31750.0,kilometer,Rs5,RS5 Coupé 4.2FSI quattro,false,car,,,l_km_consumption
+Cabriolet,white met.,,,,Zuzwil,,Agm,,1.0,kilometer,,WLR,false,car,,,
+Limousine,gray,,,,Zuzwil,,Maserati,,46050.0,kilometer,Quattroporte,Quattroporte 4.2,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Porsche,,18200.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,51000.0,kilometer,S 500,S 500,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,27800.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,94000.0,kilometer,S 65 amg,S 65 AMG L,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Audi,,101300.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Bentley,,43000.0,kilometer,Continental,Continental FlyingSpur6.0,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Audi,,79700.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,yellow met.,,,,Zuzwil,,Ferrari,,31700.0,kilometer,Testar./512,Testarossa,false,car,,,
+Cabriolet,red,,,,Zuzwil,,Mercedes-benz,,36800.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Mercedes-benz,,33000.0,kilometer,,CL 5.8 BRABUS,false,car,,,
+Kompaktvan / Minivan,black met.,,,,Zuzwil,,Vw,,71700.0,kilometer,Touran,Touran 1.4 TSI Trend,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Ferrari,,78000.0,kilometer,F355,F355 Berlinetta,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,111500.0,kilometer,Sl 500,SL 500,false,car,,,
+Limousine,white,,,,Zuzwil,,Bmw,,85400.0,kilometer,740,740i,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Mg,,48800.0,kilometer,Mgc,GT,false,car,,,
+Kombi,black,,,,Zuzwil,,Mercedes-benz,,123300.0,kilometer,E 500,E 500 Avantgarde,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,43800.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,26000.0,kilometer,911,911 Carrera,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Mercedes-benz,,500.0,kilometer,C 63 amg,BLACK SERIES,false,car,,,
+Coupé,silver met.,,,,Porrentruy,,Lamborghini,,9000.0,kilometer,Murciélago,Murciélago 6.2 Coupé,false,car,,,l_km_consumption
+Cabriolet,white,,,,Zuzwil,,Porsche,,14000.0,kilometer,911,911 Turbo S Cabrio,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Audi,,64500.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,162000.0,kilometer,190,190 E 2.5-16 ABS,false,car,,,
+Coupé,black,,,,Zuzwil,,Jaguar,,89666.0,kilometer,Xk,XKR S/C,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Aston martin,,40800.0,kilometer,Db9,DB9,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Mercedes-benz,,46000.0,kilometer,S 63 amg,S 63 AMG L,false,car,,,l_km_consumption
+Limousine,yellow,,,,Zuzwil,,Mercedes-benz,,128000.0,kilometer,S 320,S 320,false,car,,,l_km_consumption
+Kleinwagen,gray met.,,,,Zuzwil,,Renault,,45000.0,kilometer,,R8 Gordini,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Lotus,,150.0,kilometer,Esprit,Esprit 3.5 V8 SE,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Honda,,186000.0,kilometer,Accord,Accord Coupé V6 3.0i VTEC,false,car,,,l_km_consumption
+Kombi,blue,,,,Zuzwil,,Audi,,43400.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Bmw,,99800.0,kilometer,525,525xi,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Alfa romeo,,75000.0,kilometer,Gtv,GTV 6 2.5,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Bmw,,29900.0,kilometer,535,535d,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Lamborghini,,46700.0,kilometer,Diablo,Diablo 5.7 VT,false,car,,,
+Limousine,white,,,,Zuzwil,,Porsche,,30300.0,kilometer,Panamera,Panamera Turbo 4.8,false,car,,,l_km_consumption
+Limousine,white met.,,,,Zuzwil,,Mercedes-benz,,99000.0,kilometer,A 150,A 150 Classic,false,car,,,l_km_consumption
+Coupé,anthrazit met.,,,,Zuzwil,,Renault,,19200.0,kilometer,Alpine a110,1600S Gruppe 5 look,false,car,,,
+Cabriolet,black met.,,,,Porrentruy,,Lamborghini,,1999.0,kilometer,Aventador,Aventador LP700-4 Rds,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Ferrari,,41000.0,kilometer,F360,F360 Spider,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw-alpina,,54100.0,kilometer,3 series,B3 3.3 S,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Mercedes-benz,,62300.0,kilometer,S 500,S 500 4Matic,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Ferrari,,8000.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Toyota,,54100.0,kilometer,Celica,Celica 2800 i Supra,false,car,,,
+Coupé,blue,,,,Zuzwil,,Mercedes-benz,,29500.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Jeep,,126200.0,kilometer,Grand cherokee,Grand Cherokee 4.0 Ltd.,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Porsche,,47900.0,kilometer,911,911 GT3,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,61000.0,kilometer,S 65 amg,S 65 L AMG 650PS,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Sursee,,Lamborghini,,150.0,kilometer,Aventador,Aventador LP700-4 Rds,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Mercedes-benz,,12200.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,32500.0,kilometer,,CLK DTM AMG,false,car,,,
+SUV / Geländewagen,anthrazit met.,,,,Zuzwil,,Porsche,,36700.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Bmw,,127800.0,kilometer,M3,M3,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,43300.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,97000.0,kilometer,Sl-class,500 SL,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Lamborghini,,36700.0,kilometer,Gallardo,Gallardo 5.0 V10 Coupé,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Mercedes-benz,,34000.0,kilometer,Sl 65 amg,BLACK SERIES,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Lancia,,57000.0,kilometer,,Monte Carlo 137 AS,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,48000.0,kilometer,S 500,S 500,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Bmw,,67800.0,kilometer,530 gran turismo,530d GT,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,171000.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Porrentruy,,Lamborghini,,13960.0,kilometer,Diablo,Diablo 5.7 VT Roadster,false,car,,,l_km_consumption
+Kombi,blue,,,,Zuzwil,,Audi,,88600.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Land rover,,15000.0,kilometer,Range rover sport,Range Rover Sport 5.0 V8 SC,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,108100.0,kilometer,Sl 600,SL 600,false,car,,,
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,3200.0,kilometer,Slk 350,SLK 350,false,car,,,l_km_consumption
+Cabriolet,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,47000.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Limousine,yellow,,,,Zuzwil,,Mercedes-benz,,89700.0,kilometer,190,190 E 2.5-16 Evo II ABS,false,car,,,
+Coupé,gold met.,,,,Zuzwil,,Ruf,,46000.0,kilometer,,CTR,false,car,,,
+Limousine,white,,,,Safenwil,,Mini,,44300.0,kilometer,Mini,1000,false,car,,,
+Cabriolet,green met.,,,,Zuzwil,,Mercedes-benz,,43200.0,kilometer,Slk 320,SLK 320,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Mercedes-benz,,63400.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Nissan,,54500.0,kilometer,Murano,Murano 3.5 V6,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Porsche,,69500.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,98000.0,kilometer,Sl 500,6.0 AMG,false,car,,,
+Kombi,silver met.,,,,Zuzwil,,Audi,,34000.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,26800.0,kilometer,E 420,E 420 Elégance,false,car,,,l_km_consumption
+SUV / Geländewagen,yellow,,,,Zuzwil,,Porsche,,91600.0,kilometer,Cayenne,Cayenne Turbo S,false,car,,,l_km_consumption
+SUV / Geländewagen,red met,,,,Zuzwil,,Bmw,,61900.0,kilometer,X5,X5 4.8is,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Porsche,,75600.0,kilometer,911,911 Carrera 4 S Cabrio,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Mercedes-benz,,47500.0,kilometer,Clk 55 amg,CLK 55 AMG Avantgarde,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,49900.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Fiat,,115100.0,kilometer,Spider,CSA,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Bmw,,82600.0,kilometer,2002,Turbo,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,8000.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Porsche,,57600.0,kilometer,Panamera,Panamera 4S 4.8,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,29800.0,kilometer,Slr,McLaren,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Audi,,101800.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+SUV / Geländewagen,anthrazit met.,,,,Zuzwil,,Land rover,,99900.0,kilometer,Range rover,Range Rover 3.6 d HSE,false,car,,,l_km_consumption
+Limousine,brown,,,,Zuzwil,,Maserati,,80000.0,kilometer,Quattroporte,Quattroporte 4.2 Sport GT,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Maserati,,114800.0,kilometer,Coupé gt,Coupé GT,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Bmw,,79900.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Aston martin,,5000.0,kilometer,Dbs,DBS Coupé,false,car,,,l_km_consumption
+Kombi,blue,,,,Zuzwil,,Audi,,185900.0,kilometer,S4,S4 Avant quattro,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Bmw,,134000.0,kilometer,2002,Turbo,false,car,,,
+Coupé,blue met.,,,,Zuzwil,,Porsche,,47000.0,kilometer,924,924,false,car,,,
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,205500.0,kilometer,S 55 amg,S 55 AMG,false,car,,,l_km_consumption
+SUV / Geländewagen,green met.,,,,Zuzwil,,Mercedes-benz,,16500.0,kilometer,Ml 63 amg,ML 63 AMG 4Matic,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Ferrari,,18200.0,kilometer,456,456M GTA,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,41700.0,kilometer,911,911 Turbo,false,car,,,
+Kombi,silver met.,,,,Zuzwil,,Toyota,,144000.0,kilometer,Corolla,Corolla 2.0 D4D L.Terra,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Maserati,,33500.0,kilometer,Quattroporte,Quattroporte 4.2,false,car,,,l_km_consumption
+Cabriolet,white,,,,Zuzwil,,Alfa romeo,,106000.0,kilometer,Spider,1300 Junior,false,car,,,
+Kleinwagen,gray met.,,,,Zuzwil,,Fiat,,75200.0,kilometer,Punto,Punto 1.8 16V HGT,false,car,,,l_km_consumption
+Kompaktvan / Minivan,red,,,,Zuzwil,,Dodge,,13800.0,kilometer,,B 200,false,car,,,
+Coupé,blue,,,,Zuzwil,,Porsche,,114000.0,kilometer,924,Turbo,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Mercedes-benz,,48300.0,kilometer,Cl 65 amg,CL 65 AMG,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Bmw,,49900.0,kilometer,328,328i A Cabrio,false,car,,,l_km_consumption
+SUV / Geländewagen,silver,,,,Zuzwil,,Vw,,117800.0,kilometer,Touareg,Touareg 5.0 TDI V10,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,40300.0,kilometer,S 65 amg,S 65 AMG L,false,car,,,l_km_consumption
+Kombi,bordeaux met.,,,,Zuzwil,,Audi,,171700.0,kilometer,A6,A6 Avant 2.7 T q.Ambiente,false,car,,,l_km_consumption
+Kombi,red,,,,Zuzwil,,Mercedes-benz,,140200.0,kilometer,E 350,E 350 Elégance 4Matic,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Ferrari,,45000.0,kilometer,F430,F430,false,car,,,l_km_consumption
+SUV / Geländewagen,black,,,,Zuzwil,,Mercedes-benz,,118000.0,kilometer,Ml 500,ML 500,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,45000.0,kilometer,750,750i xDrive,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,23800.0,kilometer,Sl 500,SL 500,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,89200.0,kilometer,E 240,E 240 Elégance,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Bmw,,60100.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Mclaren,,23000.0,kilometer,12c,MP4-12C Coupé 3.8 V8,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Porsche,,128000.0,kilometer,911,911 Carrera Targa,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,75900.0,kilometer,Sl 600,SL 600,false,car,,,
+Coupé,green met.,,,,Zuzwil,,Mercedes-benz,,29000.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Bmw,,72000.0,kilometer,550,550i Touring,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Porsche,,46500.0,kilometer,911,911 Turbo Cabrio,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Volvo,,145000.0,kilometer,S60,S60 2.4T,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Chevrolet,,24000.0,kilometer,Corvette,Corvette Z06,false,car,,,l_km_consumption
+Cabriolet,yellow,,,,Zuzwil,,Rolls-royce,,19720.0,kilometer,Corniche,Cabrio,false,car,,,
+Coupé,blue,,,,Zuzwil,,Bmw,,81900.0,kilometer,330,330Ci,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Audi,,44000.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Bentley,,84000.0,kilometer,Continental,Continental GT 6.0,false,car,,,l_km_consumption
+Cabriolet,bordeaux met.,,,,Zuzwil,,Porsche,,450.0,kilometer,911,911 Turbo S Cabrio,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Renault,,128500.0,kilometer,Alpine,V6,false,car,,,
+Cabriolet,white,,,,Zuzwil,,Aston martin,,9000.0,kilometer,V8 vantage,V8 Vantage 4.7,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Mercedes-benz,,15100.0,kilometer,Cl 500,CL 500,false,car,,,l_km_consumption
+Kombi,silver met.,,,,Zuzwil,,Audi,,26300.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Bmw,,108500.0,kilometer,530,530d Touring,false,car,,,l_km_consumption
+Kombi,black,,,,Zuzwil,,Audi,,91900.0,kilometer,S6,S6 Avant quattro 4.2,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Renault,,68000.0,kilometer,Alpine a110,1600 S,false,car,,,
+Kombi,black,,,,Zuzwil,,Audi,,29500.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,42000.0,kilometer,750,750iL,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,64000.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Kombi,gray met.,,,,Zuzwil,,Bmw,,85800.0,kilometer,540,540i Touring,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Bmw,,238500.0,kilometer,323,323i,false,car,,,
+Coupé,orange,,,,Zuzwil,,Alfa romeo,,584.0,kilometer,Gtv,6 2.5,false,car,,,
+Limousine,red met,,,,Zuzwil,,Audi,,33800.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,28000.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,35600.0,kilometer,E 50 amg,E 50 AMG Avantgarde,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,53800.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Ferrari,,20700.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,45500.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Cabriolet,blue,,,,Zuzwil,,Mercedes-benz,,32000.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Kombi,blue,,,,Zuzwil,,Audi,,75200.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,86100.0,kilometer,535,535i,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,77000.0,kilometer,Cls 55 amg,CLS 55 AMG,false,car,,,l_km_consumption
+Kombi,silver met.,,,,Zuzwil,,Audi,,36900.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Renault,,39267.0,kilometer,Alpine a110,A5 Motor,false,car,,,
+Cabriolet,black,,,,Zuzwil,,Bmw,,25700.0,kilometer,135,135i,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Bmw,,77500.0,kilometer,335,335i,false,car,,,l_km_consumption
+Limousine,blue,,,,Zuzwil,,Bentley,,44600.0,kilometer,Arnage,Arnage Green Label,false,car,,,l_km_consumption
+Kombi,silver met.,,,,Zuzwil,,Audi,,29300.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Triumph,,10800.0,kilometer,Dolomite,Sprint,false,car,,,
+Cabriolet,gray met.,,,,Zuzwil,,Porsche,,29500.0,kilometer,911,911 Carrera S Cabrio,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Ferrari,,32800.0,kilometer,F355,F355 Berlinetta,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Audi,,26500.0,kilometer,R8,R8 Coupé 5.2,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,78700.0,kilometer,Cls 500,CLS 500,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Maserati,,61400.0,kilometer,Coupé gt,Coupé GT,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Volvo,,27900.0,kilometer,C70,C70 T5,false,car,,,l_km_consumption
+Limousine,gold met.,,,,Zuzwil,,Daimler,,94800.0,kilometer,Xj,Six 4.0,false,car,,,
+Kombi,anthrazit met.,,,,Zuzwil,,Audi,,32800.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Mercedes-benz,,50200.0,kilometer,Cl 55 amg,CL 55 AMG,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Audi,,29300.0,kilometer,Tt,TTS Cpé 2.0 TFSI quattro,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Bmw,,32900.0,kilometer,X5,X5 4.6is,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,56200.0,kilometer,S 65 amg,S 65 AMG L,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,123000.0,kilometer,911,911 Carrera 2 RS,false,car,,,
+Limousine,white met.,,,,Zuzwil,,Vw,,48300.0,kilometer,Phaeton,Phaeton 3.0 TDi V6 4M,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,14500.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Subaru,,161500.0,kilometer,Impreza,Impreza 2.5T WRX,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Ferrari,,45000.0,kilometer,612,612,false,car,,,l_km_consumption
+Cabriolet,green,,,,Zuzwil,,Bmw,,52900.0,kilometer,M3,M3,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Renault,,90000.0,kilometer,Alpine a110,Modell 1400 FASA,false,car,,,
+Limousine,black,,,,Zuzwil,,Bmw-alpina,,4950.0,kilometer,5 series,B5 BiTurbo 4.4 V8,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Mercedes-benz,,64100.0,kilometer,C 43 amg,C 43 AMG Sport,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Fiat,,120000.0,kilometer,Spider,CSA Abarth,false,car,,,
+Kombi,blue met.,,,,Zuzwil,,Audi,,100.0,kilometer,Rs6,RS6 Avant 4.0 TFSI V8 qu,false,car,,,l_km_consumption
+Coupé,yellow,,,,Zuzwil,,Toyota,,135800.0,kilometer,Mr2,MR2 2.0,false,car,,,
+Limousine,black,,,,Zuzwil,,Seat,,53300.0,kilometer,Leon,Leon 2.0 TSI FR,false,car,,,l_km_consumption
+SUV / Geländewagen,blue met.,,,,Zuzwil,,Bmw,,86200.0,kilometer,X3,X3 3.0i,false,car,,,l_km_consumption
+Coupé,yellow,,,,Zuzwil,,Ferrari,,49000.0,kilometer,456,456M GT,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Mercedes-benz,,84000.0,kilometer,Sl 63 amg,SL 63 AMG,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Bmw,,29800.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Mercedes-benz,,118200.0,kilometer,C 180,C 180 Esprit,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Saab,,117100.0,kilometer,9-5,9-5 2.3T Aero,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Audi,,66300.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Coupé,bordeaux met.,,,,Zuzwil,,Ferrari,,29300.0,kilometer,F430,F430,false,car,,,l_km_consumption
+Cabriolet,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,48700.0,kilometer,Sl 600,SL 600,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Chevrolet,,68200.0,kilometer,Corvette,Corvette 5.7 LT1 Convert.,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Porsche,,74000.0,kilometer,911,911 Targa,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Porsche,,13700.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Ferrari,,62000.0,kilometer,F550,F550 Maranello,false,car,,,l_km_consumption
+Cabriolet,blue,,,,Zuzwil,,Mercedes-benz,,19999.0,kilometer,Sl 63 amg,SL 63 AMG,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,21400.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Lamborghini,,14990.0,kilometer,Diablo,Diablo 5.7 VT,false,car,,,
+Limousine,white,,,,Zuzwil,,De tomaso,,68100.0,kilometer,Pantera,null,false,car,,,
+Coupé,green met.,,,,Zuzwil,,Ferrari,,14500.0,kilometer,575m,NOVITEC,false,car,,,
+Coupé,black,,,,Zuzwil,,Ford,,36100.0,kilometer,Capri,RS 2600,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Audi,,67700.0,kilometer,A6,A6 2.4,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Wiesmann,,34600.0,kilometer,Coupe,GT MF5,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Bentley,,85700.0,kilometer,Arnage,Red Label,false,car,,,
+Kombi,blue met.,,,,Zuzwil,,Audi,,114200.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,green,,,,Zuzwil,,Ferrari,,92000.0,kilometer,456,456M GTA,false,car,,,l_km_consumption
+Cabriolet,red,,,,Zuzwil,,Porsche,,9900.0,kilometer,911,911 Turbo S Cabrio,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Porsche,,137700.0,kilometer,911,911 Carrera Cabrio,false,car,,,
+Coupé,blue,,,,Zuzwil,,Porsche,,62900.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,65000.0,kilometer,740,740i,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Mercedes-benz,,61000.0,kilometer,Clk 320,CLK 320 Sport,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bentley,,57000.0,kilometer,Arnage,Arnage T,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Mercedes-benz,,79500.0,kilometer,Clk 55 amg,CLK 55 AMG Avantgarde,false,car,,,l_km_consumption
+Cabriolet,green,,,,Zuzwil,,Bmw,,103600.0,kilometer,Z4,Z4 2.5i Roadster,false,car,,,l_km_consumption
+Limousine,blue,,,,Zuzwil,,Bmw,,60700.0,kilometer,750,750i,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Talbot,,40100.0,kilometer,,Sunbeam Lotus,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Renault,,9999.0,kilometer,Alpine a110,1300S,false,car,,,
+Limousine,white,,,,Zuzwil,,Audi,,94700.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,31400.0,kilometer,Cls 63 amg,CLS 63 AMG,false,car,,,l_km_consumption
+Cabriolet,yellow,,,,Zuzwil,,Porsche,,28000.0,kilometer,911,911 Turbo S Cabrio PDK,false,car,,,l_km_consumption
+Coupé,gray,,,,Zuzwil,,Chevrolet,,27700.0,kilometer,Corvette,null,false,car,,,
+Limousine,green met.,,,,Porrentruy,,Mercedes-benz,,19900.0,kilometer,S 500,S 500 L,false,car,,,l_km_consumption
+Kleinwagen,violet met.,,,,Zuzwil,,Renault,,77900.0,kilometer,R5,R5 1400 Alpine Turbo,false,car,,,
+Kombi,blue met.,,,,Zuzwil,,Audi,,81000.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Porrentruy,,Ferrari,,53500.0,kilometer,F430,F430 Spider,false,car,,,l_km_consumption
+SUV / Geländewagen,anthrazit met.,,,,Zuzwil,,Land rover,,63200.0,kilometer,Range rover,Range Rover 4.4TD Vogue,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Vw,,1.0,kilometer,Beetle,New Beetle Cup,false,car,,,
+Limousine,orange,,,,Zuzwil,,Maserati,,33600.0,kilometer,Quattroporte,Quattroporte 4.2 Exec. GT,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Maserati,,45000.0,kilometer,Granturismo,GranTurismo S,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Bmw,,39200.0,kilometer,X1,X1 xDrive 25d Sport Line,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Bmw,,88000.0,kilometer,M3,M3 CSL,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,25000.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Vw,,119000.0,kilometer,Phaeton,Phaeton 4.2 V8 4Motion,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Porsche,,21100.0,kilometer,911,GT3 CS,false,car,,,
+SUV / Geländewagen,black met.,,,,Zuzwil,,Jeep,,61000.0,kilometer,Grand cherokee,Grand Cherokee 5.2 Ltd.,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,110200.0,kilometer,450,SLC,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,29000.0,kilometer,F355,F355 Berlinetta,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,128800.0,kilometer,S 600,S 600 L,false,car,,,l_km_consumption
+SUV / Geländewagen,white,,,,Zuzwil,,Mercedes-benz,,148300.0,kilometer,Ml 400,ML 400 CDI,false,car,,,l_km_consumption
+Cabriolet,white met.,,,,Zuzwil,,Mercedes-benz,,70600.0,kilometer,Sl 320,SL 320,false,car,,,l_km_consumption
+Cabriolet,yellow,,,,Zuzwil,,Chrysler,,28600.0,kilometer,Viper,Viper RT/10,false,car,,,
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,128800.0,kilometer,S 500,S 500 L,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Mercedes-benz,,75000.0,kilometer,E 430,E 430 Avantgarde,false,car,,,l_km_consumption
+Limousine,beige met.,,,,Zuzwil,,Mercedes-benz,,19100.0,kilometer,Cls 63 amg,CLS 63 AMG,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Mercedes-benz,,20100.0,kilometer,E 63 amg,E 63 AMG CGI,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Renault,,82400.0,kilometer,Alpine,V6,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Porsche,,81900.0,kilometer,911,911 Carrera Cabrio,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Lotus,,62200.0,kilometer,Europa,null,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,70000.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,24400.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,106000.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+SUV / Geländewagen,green met.,,,,Zuzwil,,Land rover,,70000.0,kilometer,Range rover,Range Rover 4.6 HSE,false,car,,,l_km_consumption
+SUV / Geländewagen,red,,,,Zuzwil,,Porsche,,78400.0,kilometer,Cayenne,Cayenne S,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Porsche,,61400.0,kilometer,911,911 Carrera Jubilé 40,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,19400.0,kilometer,Slk 55 amg,SLK 55 AMG,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bentley,,21700.0,kilometer,Arnage,Arnage Red Label,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,59000.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,31500.0,kilometer,M5,M5,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Land rover,,126300.0,kilometer,Range rover sport,Range Rover Sport 4.2 V8 SC,false,car,,,l_km_consumption
+SUV / Geländewagen,white,,,,Zuzwil,,Porsche,,115000.0,kilometer,Cayenne,Cayenne S,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Ferrari,,39000.0,kilometer,575m,575M,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,112800.0,kilometer,S 500,S 500,false,car,,,l_km_consumption
+Kombi,red,,,,Zuzwil,,Audi,,45000.0,kilometer,A6,A6 Avant 2.7 T Ambition,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Ferrari,,46500.0,kilometer,456,456M GT,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Vw,,15900.0,kilometer,Phaeton,Phaeton 6.0 W12 4Motion,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Bentley,,124900.0,kilometer,Brooklands,Brooklands,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Pgo,,3000.0,kilometer,,Cevennes,false,car,,,
+Cabriolet,red,,,,Zuzwil,,Mercedes-benz,,22100.0,kilometer,Sl 65 amg,SL 65 AMG,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,29100.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,34500.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,2400.0,kilometer,Slr,McLaren Roadster,false,car,,,
+Limousine,yellow,,,,Zuzwil,,Mercedes-benz,,42000.0,kilometer,S 400,S 400 CDI,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Audi,,54500.0,kilometer,S6,S6 quattro 4.2,false,car,,,l_km_consumption
+Limousine,blue,,,,Zuzwil,,Mercedes-benz,,51000.0,kilometer,Cls 500,CLS 500,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Lamborghini,,49800.0,kilometer,Murciélago,Murciélago 6.2 Coupé,false,car,,,l_km_consumption
+SUV / Geländewagen,black,,,,Zuzwil,,Porsche,,39000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,8900.0,kilometer,Sl 320,SL 320,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,18300.0,kilometer,740,740iL,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Porsche,,101300.0,kilometer,911,911 Turbo II,false,car,,,
+Coupé,white,,,,Zuzwil,,Maserati,,95300.0,kilometer,Coupé gt,Coupé GT,false,car,,,l_km_consumption
+Coupé,bordeaux met.,,,,Zuzwil,,Ferrari,,30300.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Mercedes-benz,,16660.0,kilometer,,CLK DTM AMG,false,car,,,
+Kompaktvan / Minivan,black,,,,Zuzwil,,Mercedes-benz,,60500.0,kilometer,B 200,B 200 T Sailing Edition,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Porsche,,156000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,35000.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Mercedes-benz,,12900.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Mercedes-benz,,29000.0,kilometer,E 63 amg,E 63 AMG,false,car,,,l_km_consumption
+Kombi,red,,,,Zuzwil,,Audi,,38000.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Kombi,black,,,,Zuzwil,,Audi,,40900.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,59500.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Ferrari,,5000.0,kilometer,F430,Challenge GT3 LOOK,false,car,,,
+Cabriolet,anthrazit met.,,,,Zuzwil,,Lotus,,38200.0,kilometer,Elise,Elise,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Peugeot,,58950.0,kilometer,205,Turbo 16V,false,car,,,
+Limousine,red,,,,Zuzwil,,Bentley,,62000.0,kilometer,Arnage,Arnage T,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Mercedes-benz,,70700.0,kilometer,E 50 amg,E 50 AMG Avantgarde,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Mercedes-benz,,16000.0,kilometer,Ml 430,ML 430,false,car,,,l_km_consumption
+SUV / Geländewagen,anthrazit met.,,,,Zuzwil,,Bmw,,26500.0,kilometer,X5,X5 4.6is,false,car,,,l_km_consumption
+Kombi,green,,,,Zuzwil,,Mercedes-benz,,44000.0,kilometer,E 420,E 420 Elégance,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,38200.0,kilometer,911,911 GT2,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw-alpina,,129400.0,kilometer,7 series,B7 Turbo Limousine,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Porsche,,21400.0,kilometer,911,911 Turbo Cabrio,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,87800.0,kilometer,E 420,E 420 Avantgarde,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Mercedes-benz,,75100.0,kilometer,Cl 500,CL 500,false,car,,,l_km_consumption
+Kombi,gray met.,,,,Zuzwil,,Land rover,,50400.0,kilometer,Defender,Defender 90 2.4Td4 SW,false,car,,,l_km_consumption
+Cabriolet,red,,,,Zuzwil,,Ferrari,,58000.0,kilometer,F360,F360 Spider,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Jaguar,,107100.0,kilometer,Xk,XKR S/C Convertible,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Mclaren,,1200.0,kilometer,12c,MP4-12C Coupé 3.8 V8,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Audi,,65000.0,kilometer,R8,R8 Coupé 4.2,false,car,,,l_km_consumption
+Kombi,gray met.,,,,Zuzwil,,Audi,,14000.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Aston martin,,35500.0,kilometer,V8 vantage,V8 Vantage 4.3,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Opel,,90600.0,kilometer,Vectra,Vectra 2.8 T V6 Cosmo,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,48200.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Porsche,,30100.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+SUV / Geländewagen,white,,,,Zuzwil,,Porsche,,1000.0,kilometer,Cayenne,Cayenne S,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Mercedes-benz,,62000.0,kilometer,S 600,S 600,false,car,,,
+Limousine,black,,,,Zuzwil,,Maserati,,24300.0,kilometer,Quattroporte,Quattroporte 4.2 Sport GT,false,car,,,l_km_consumption
+SUV / Geländewagen,blue,,,,Zuzwil,,Hummer,,127700.0,kilometer,H3,H3 3.5 Luxury,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Maserati,,40600.0,kilometer,Ghibli,Ghibli 2.8 GT,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Bmw,,5400.0,kilometer,650,650i xDrive,false,car,,,l_km_consumption
+Coupé,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,12100.0,kilometer,C 63 amg,BLACK SERIES (Coupé),false,car,,,
+Cabriolet,gray met.,,,,Zuzwil,,Bentley,,58000.0,kilometer,Continental,Continental GTC 6.0,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Vw,,36300.0,kilometer,Golf,Golf 2.0 TSI R 4Motion,false,car,,,l_km_consumption
+Cabriolet,blue,,,,Zuzwil,,Triumph,,38000.0,kilometer,Spitfire,MK IV,false,car,,,
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,45300.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,66100.0,kilometer,A4,A4 Avant 3.0 V6 quattro,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,73700.0,kilometer,S 320,S 320,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,35000.0,kilometer,456,456M GT,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Jaguar,,103000.0,kilometer,Xk,XKR S/C,false,car,,,l_km_consumption
+Cabriolet,gray,,,,Zuzwil,,Mercedes-benz,,20000.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Coupé,black,,,,Sursee,,Ferrari,,7000.0,kilometer,F40 / f50,null,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Mercedes-benz,,23000.0,kilometer,Sls 63,SLS 63 AMG,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,82100.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,48500.0,kilometer,E 430,E 430 Avantgarde,false,car,,,l_km_consumption
+Coupé,anthrazit met.,,,,Zuzwil,,Lamborghini,,48000.0,kilometer,,Espada GT 400 Serie 3,false,car,,,
+Cabriolet,gray,,,,Zuzwil,,Maserati,,63000.0,kilometer,Spyder gt,Spyder GT,false,car,,,l_km_consumption
+Limousine,gray,,,,Zuzwil,,Lancia,,155000.0,kilometer,Delta,Delta HF Integrale Evo,false,car,,,
+Cabriolet,gray met.,,,,Zuzwil,,Lotus,,26800.0,kilometer,Super seven,HKT,false,car,,,
+Limousine,black,,,,Zuzwil,,Bmw,,111900.0,kilometer,750,750iL,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,300.0,kilometer,Slk 200,SLK 200 Kompressor,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Porsche,,400.0,kilometer,Cayenne,Cayenne Turbo S,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Bmw,,89200.0,kilometer,740,740i,false,car,,,
+Limousine,red,,,,Zuzwil,,Bentley,,101500.0,kilometer,Mulsanne,Turbo,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Audi,,67700.0,kilometer,S5,S5 Coupé 4.2 FSI quattro,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,93500.0,kilometer,2002,tii,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Datsun,,23300.0,kilometer,,SPORTS 2000,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,52400.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,49900.0,kilometer,911,911 GT2,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Rolls-royce,,56000.0,kilometer,Phantom,Phantom 6.7 V12,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Mercedes-benz,,36000.0,kilometer,Clk 63 amg,CLK 63 AMG Black Series,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Ferrari,,56500.0,kilometer,Mondial,Mondial 3.4 T,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Smart,,165000.0,kilometer,Fortwo,Fortwo passion,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Nissan,,162900.0,kilometer,200 sx,200 SX 1.8 16V Turbo,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Bmw,,33900.0,kilometer,735,735i,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,77000.0,kilometer,911,911 GT3,false,car,,,l_km_consumption
+Wohnkabine,anthrazit met.,,,,Zuzwil,,Giottiline,,200.0,kilometer,,Therry T22,false,car,,,
+Coupé,green met.,,,,Zuzwil,,Porsche,,47500.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Rolls-royce,,47100.0,kilometer,Corniche,III,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,45200.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Audi,,57500.0,kilometer,Rs4,RS4 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,anthrazit met.,,,,Zuzwil,,Audi,,120200.0,kilometer,Cabriolet,Cabriolet 2.8 E,false,car,,,l_km_consumption
+Cabriolet,gray,,,,Safenwil,,Austin-healey,,16900.0,kilometer,,100/Six BN6 Roadster,false,car,,,
+Coupé,blue,,,,Zuzwil,,Mercedes-benz,,26400.0,kilometer,Slr,McLaren Coupé,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Porsche,,7000.0,kilometer,911,GT3 CUP,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,96400.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Alfa romeo,,37000.0,kilometer,8c,Coupé,false,car,,,
+Cabriolet,anthrazit met.,,,,Zuzwil,,Lamborghini,,16200.0,kilometer,Murciélago,Murciélago 6.2 Roadster,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Jaguar,,95100.0,kilometer,Xj,XJR 4.0 V8 S/C,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Volvo,,107000.0,kilometer,S40,S40 2.0 T,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Bentley,,76200.0,kilometer,Continental,Continental GTC 6.0,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Lamborghini,,20800.0,kilometer,Murciélago,Murciélago LP670-4 SV Cpé,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Toyota,,5000.0,kilometer,Land cruiser,FJ 40,false,car,,,
+Coupé,white,,,,Zuzwil,,Renault,,98600.0,kilometer,Alpine,Alpine V6 Turbo,false,car,,,
+Kombi,green met.,,,,Zuzwil,,Audi,,42500.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Kombi,black,,,,Zuzwil,,Bmw,,120900.0,kilometer,530,530i Touring,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,70900.0,kilometer,Sl 320,SL 320,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Bmw,,21800.0,kilometer,X5,X5 4.6is,false,car,,,l_km_consumption
+Coupé,silver,,,,Sursee,,Ferrari,,8000.0,kilometer,365,Daytona Plexiglas,false,car,,,
+Cabriolet,silver met.,,,,Sursee,,Mercedes-benz,,1000.0,kilometer,,300SL Roadster,false,car,,,
+Kompaktvan / Minivan,white,,,,Zuzwil,,Renault,,145000.0,kilometer,Espace,Espace 2.0 T Privilège,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Bmw,,7990.0,kilometer,2002,Turbo,false,car,,,
+Coupé,blue met.,,,,Zuzwil,,Bmw-alpina,,150200.0,kilometer,7 series,B7 Turbo Coupé,false,car,,,
+Coupé,gray met.,,,,Zuzwil,,Toyota,,158000.0,kilometer,Celica,Celica 2800 i Supra,false,car,,,
+Limousine,red,,,,Zuzwil,,Mercedes-benz,,132600.0,kilometer,E 420,E 420 Avantgarde,false,car,,,l_km_consumption
+Limousine,bordeaux met.,,,,Zuzwil,,Audi,,60000.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Kompaktvan / Minivan,yellow,,,,Zuzwil,,Daewoo,,103000.0,kilometer,Tacuma,Tacuma 2000i CDX,false,car,,,l_km_consumption
+Coupé,orange met.,,,,Zuzwil,,Porsche,,5000.0,kilometer,911,GT3 CUP Rennwagen,false,car,,,
+Limousine,black,,,,Zuzwil,,Maserati,,56600.0,kilometer,Quattroporte,Quattroporte 4.2,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bentley,,85700.0,kilometer,Arnage,Arnage Green Label,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Bmw,,91000.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Bmw,,79100.0,kilometer,645,645i,false,car,,,l_km_consumption
+Coupé,violet met.,,,,Zuzwil,,Jaguar,,5300.0,kilometer,,D-Type XKD525,false,car,,,
+Coupé,white,,,,Zuzwil,,Ferrari,,22000.0,kilometer,599,599 GTB,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Nsu,,10352.0,kilometer,,TT,false,car,,,
+Coupé,orange met.,,,,Porrentruy,,Lamborghini,,7000.0,kilometer,Diablo,SV-R Race,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Renault,,23500.0,kilometer,Sport spider,Spider 2.0 16V TURBO,false,car,,,l_km_consumption
+Limousine,bordeaux,,,,Zuzwil,,Mercedes-benz,,14100.0,kilometer,S 320,S 320,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,47300.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Lamborghini,,16000.0,kilometer,Murciélago,Murciélago 6.2 Coupé,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,13200.0,kilometer,S 63 amg,S 63 AMG,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Mercedes-benz,,500.0,kilometer,R 500,R 500 4Matic,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Porsche,,47500.0,kilometer,Panamera,Panamera Turbo 4.8,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Mercedes-benz,,43700.0,kilometer,C 350,C 350 Elégance 4Matic,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Renault,,177000.0,kilometer,,DAUPHINE GORDINI,false,car,,,
+Kombi,black met.,,,,Zuzwil,,Audi,,211000.0,kilometer,S6,S6 Avant quattro,false,car,,,l_km_consumption
+Kombi,red,,,,Zuzwil,,Audi,,47000.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Matra,,52000.0,kilometer,,SIMCA Bagheera Serie II,false,car,,,
+Limousine,silver,,,,Zuzwil,,Mercedes-benz,,162900.0,kilometer,C 240,C 240 Elégance,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Audi,,95700.0,kilometer,Rs4,RS4 4.2 V8 quattro,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,101200.0,kilometer,911,911 Carrera 4S,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Audi,,26300.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Coupé,violet met.,,,,Zuzwil,,Chevrolet,,21300.0,kilometer,Corvette,C2,false,car,,,
+Limousine,anthrazit met.,,,,Zuzwil,,Bmw-alpina,,146500.0,kilometer,3 series,B8,false,car,,,
+Limousine,bordeaux met.,,,,Zuzwil,,Mercedes-benz,,99900.0,kilometer,S 500,S 500,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Lamborghini,,300.0,kilometer,Huracan,Huracan LP610-4 Coupé,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,9900.0,kilometer,S 320,S 320 CDI,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Renault,,31000.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Mg,,86000.0,kilometer,,M Roadster,false,car,,,
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Porsche,,21000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Coupé,yellow,,,,Zuzwil,,Maserati,,64600.0,kilometer,3200 gt,3200 GT,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Ford,,164400.0,kilometer,Sierra,Sierra 2.0i Cosworth 4x4,false,car,,,
+Coupé,silver,,,,Zuzwil,,Mercedes-benz,,22400.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Kleinwagen,silver met.,,,,Zuzwil,,Renault,,61200.0,kilometer,Clio,Clio 3.0 Sport V6,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Renault,,139200.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,32500.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Limousine,bordeaux met.,,,,Zuzwil,,Bentley,,175100.0,kilometer,,T 2,false,car,,,
+Cabriolet,blue,,,,Zuzwil,,Opel,,9000.0,kilometer,Speedster,Speedster 2.2 16V,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,12000.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Lamborghini,,7300.0,kilometer,Gallardo,Gallardo LP550-2 Cpé V.B.,false,car,,,l_km_consumption
+SUV / Geländewagen,anthrazit met.,,,,Zuzwil,,Porsche,,121000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Kombi,gray met.,,,,Zuzwil,,Audi,,38500.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,65400.0,kilometer,740,740i,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,32500.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Porsche,,1.0,kilometer,Cayenne,Cayenne S,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Vw,,37800.0,kilometer,Phaeton,Phaeton 6.0 W12 4Motion,false,car,,,l_km_consumption
+SUV / Geländewagen,blue met.,,,,Zuzwil,,Mercedes-benz,,20800.0,kilometer,Ml 500,ML 500,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Mercedes-benz,,39600.0,kilometer,Cl 500,CL 500,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ford,,96600.0,kilometer,Escort,RS 2000,false,car,,,
+Coupé,white,,,,Zuzwil,,Jaguar,,25000.0,kilometer,Xj 220,null,false,car,,,
+Cabriolet,silver,,,,Sursee,,Ford (usa),,1000.0,kilometer,Mustang,null,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Bentley,,39100.0,kilometer,Brooklands,Brooklands,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Bmw,,26200.0,kilometer,728,728i,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Mercedes-benz,,116100.0,kilometer,Cl 500,CL 500,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Mercedes-benz,,7600.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+SUV / Geländewagen,anthrazit,,,,Zuzwil,,Porsche,,2900.0,kilometer,Cayenne,Cayenne Turbo Techart Magnum Kit,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,52500.0,kilometer,Sl 600,SL 600,false,car,,,
+Limousine,bordeaux,,,,Zuzwil,,Mitsubishi,,35200.0,kilometer,Lancer,Lancer Evo VII,false,car,,,
+Cabriolet,gray,,,,Zuzwil,,Porsche,,20400.0,kilometer,911,911 Carrera Cabrio,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,145100.0,kilometer,300,SEL 3.5,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,134000.0,kilometer,911,SC 3.0,false,car,,,
+Limousine,yellow,,,,Safenwil,,Toyota,,58100.0,kilometer,Camry,2000 GLi Super Liftback,false,car,,,
+Coupé,gold,,,,Zuzwil,,Chevrolet,,13000.0,kilometer,Corvette,Corvette ZR1,false,car,,,l_km_consumption
+Cabriolet,gray,,,,Zuzwil,,Maserati,,88500.0,kilometer,Spyder gt,Spyder GT,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Ferrari,,68000.0,kilometer,456,456M GTA,false,car,,,l_km_consumption
+Kombi,black,,,,Zuzwil,,Mercedes-benz,,57400.0,kilometer,C 63 amg,C 63 AMG Avantgarde,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Maserati,,62300.0,kilometer,Coupé gt,Coupé GT,false,car,,,l_km_consumption
+Coupé,anthrazit met.,,,,Zuzwil,,Ford (usa),,92000.0,kilometer,Mustang,Shelby GT500,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Toyota,,57700.0,kilometer,Carina,Deluxe,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Audi,,3600.0,kilometer,S7,S7 Sportback 4.0 TFSI V8 quattro,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Toyota,,79300.0,kilometer,Celica,1600 GT DOHC,false,car,,,
+Coupé,gray met.,,,,Zuzwil,,Porsche,,63300.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Maserati,,9800.0,kilometer,Quattroporte,Quattroporte 4.2,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,2300.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Bentley,,47500.0,kilometer,Turbo,null,false,car,,,
+Kombi,white,,,,Zuzwil,,Mercedes-benz,,10400.0,kilometer,Cls 500,CLS 500,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Porsche,,51000.0,kilometer,924,null,false,car,,,
+Cabriolet,black,,,,Zuzwil,,Ferrari,,34600.0,kilometer,F355,F355 Spider,false,car,,,l_km_consumption
+Kombi,black,,,,Zuzwil,,Bmw,,79800.0,kilometer,320,320i Touring,false,car,,,l_km_consumption
+Coupé,black,,,,Sursee,,Porsche,,6300.0,kilometer,911,911 GT3 RS,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Mercedes-benz,,103800.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Opel,,60990.0,kilometer,Manta,400 Breitbau,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Renault,,75700.0,kilometer,Alpine a110,1300,false,car,,,
+Limousine,white met.,,,,Zuzwil,,Mercedes-benz,,102000.0,kilometer,S 65 amg,S 65 AMG L,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Bmw,,211000.0,kilometer,323,Alpina Look,false,car,,,
+Coupé,green met.,,,,Zuzwil,,Porsche,,20900.0,kilometer,911,911 GT2,false,car,,,l_km_consumption
+SUV / Geländewagen,black,,,,Zuzwil,,Porsche,,64500.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Lincoln,,119600.0,kilometer,Continental,null,false,car,,,
+Cabriolet,white,,,,Zuzwil,,Mercedes-benz,,197800.0,kilometer,Sl 500,SL 500,false,car,,,
+Limousine,yellow,,,,Zuzwil,,Bentley,,35000.0,kilometer,Continental,Continental FlyingSpur6.0,false,car,,,l_km_consumption
+Coupé,gray,,,,Zuzwil,,Porsche,,25900.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Kombi,green met.,,,,Zuzwil,,Audi,,45300.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Nissan,,98000.0,kilometer,Sunny,2.0 16V GTI-R Rallye,false,car,,,
+Limousine,black,,,,Zuzwil,,Bmw-alpina,,94400.0,kilometer,5 series,B10 4.6 S.Tronic,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Aston martin,,17000.0,kilometer,Db9,DB9 Volante,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Lotus,,36700.0,kilometer,Esprit,Esprit 3.5 V8 SE,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Ferrari,,53600.0,kilometer,F360,F360 Spider,false,car,,,l_km_consumption
+Sattelschlepper,black met.,,,,Zuzwil,,Mercedes-benz,,65400.0,kilometer,600-series,611 DS,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Porsche,,134100.0,kilometer,911,911 Carrera 4,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Porsche,,75400.0,kilometer,911,911 Carrera Cabrio,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Vw,,43900.0,kilometer,Phaeton,Phaeton 6.0 W12 4Motion,false,car,,,l_km_consumption
+Kleinwagen,black,,,,Zuzwil,,Renault,,159700.0,kilometer,R5,R5 1400 Alpine Turbo,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Vw,,175000.0,kilometer,Phaeton,Phaeton 6.0 W12 4Motion,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,27600.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Bmw,,49700.0,kilometer,330,330i,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Renault,,59800.0,kilometer,Alpine,A310 1600 VG,false,car,,,
+Cabriolet,red,,,,Zuzwil,,Aston martin,,41000.0,kilometer,Db9,DB9 Volante,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,42500.0,kilometer,Slk 55 amg,SLK 55 AMG,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,41300.0,kilometer,F355,F355 Berlinetta,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Porsche,,80400.0,kilometer,911,911 Carrera 4 Cabrio TECHART,false,car,,,l_km_consumption
+Limousine,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,97300.0,kilometer,S 65 amg,S 65 AMG L,false,car,,,l_km_consumption
+Limousine,green,,,,Zuzwil,,Bmw,,114600.0,kilometer,730,730i,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,91100.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,41100.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Lotus,,16000.0,kilometer,,HKT Seven GTS,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Bmw,,82000.0,kilometer,535,535d xDrive,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bentley,,42300.0,kilometer,Arnage,Arnage Green Label,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Porsche,,12000.0,kilometer,Carrera gt,Carrera GT,false,car,,,l_km_consumption
+Limousine,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,95400.0,kilometer,Cls 500,CLS 500,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Maserati,,29000.0,kilometer,Quattroporte,Quattroporte 4.7 S,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Bmw,,63000.0,kilometer,740,740i,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Mercedes-benz,,27800.0,kilometer,Cl 500,CL 500,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,33613.0,kilometer,Sl 65 amg,SL 65 AMG,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Ferrari,,42600.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+Limousine,anthrazit met.,,,,Zuzwil,,Audi,,125400.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Bmw,,88000.0,kilometer,M3,M3,false,car,,,
+Limousine,black,,,,Zuzwil,,Daimler,,100.0,kilometer,V8,V8 4.0,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,141000.0,kilometer,540,540i,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,21400.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+SUV / Geländewagen,white,,,,Zuzwil,,Porsche,,10.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,25100.0,kilometer,Sl 320,SL 320,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Maserati,,62700.0,kilometer,Quattroporte,Quattroporte 4.2,false,car,,,l_km_consumption
+Cabriolet,silver,,,,Zuzwil,,Ferrari,,55800.0,kilometer,F360,F360 Spider,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Audi,,62000.0,kilometer,A6,A6 4.2 V8 quattro,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Audi,,47600.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Renault,,77300.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Kombi,gray met.,,,,Zuzwil,,Audi,,42600.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,85200.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,silver met.,,,,St. Gallen,,Bentley,,5000.0,kilometer,Continental,Continental GT Speed 6.0,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Bmw,,142000.0,kilometer,M3,M3,false,car,,,l_km_consumption
+Coupé,gray,,,,Zuzwil,,Ferrari,,15900.0,kilometer,575m,575M,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Maserati,,41800.0,kilometer,Coupé gt,Coupé GT,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,92300.0,kilometer,Clk 55 amg,CLK 55 AMG Avantgarde,false,car,,,l_km_consumption
+Kombi,black,,,,Zuzwil,,Bmw,,38000.0,kilometer,528,528i Touring,false,car,,,l_km_consumption
+Limousine,blue,,,,Zuzwil,,Nsu,,75000.0,kilometer,,TTS,false,car,,,
+Coupé,silver,,,,Zuzwil,,Ferrari,,26000.0,kilometer,599,599 GTB,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Porsche,,91600.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Cabriolet,red,,,,Zuzwil,,Mercedes-benz,,68900.0,kilometer,Sl 600,SL 600,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Maserati,,23200.0,kilometer,Coupé gt,Coupé GT,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,48100.0,kilometer,S 600,S 600 L,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Datsun,,50300.0,kilometer,280,ZX,false,car,,,
+Limousine,gray,,,,Zuzwil,,Mercedes-benz,,83900.0,kilometer,E 320,E 320 Elégance 4-Matic,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Ferrari,,32500.0,kilometer,456,456 GTA,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Porsche,,38600.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,silver,,,,Zuzwil,,Alfa romeo,,79380.0,kilometer,Gt,1300 Junior,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Aston martin,,29000.0,kilometer,Db7,DB7 Vantage Volante,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Mercedes-benz,,87800.0,kilometer,Ml 400,ML 400 CDI,false,car,,,l_km_consumption
+SUV / Geländewagen,green,,,,Zuzwil,,Mercedes-benz,,13300.0,kilometer,Ml 63 amg,ML 63 AMG 4Matic,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Chevrolet,,6300.0,kilometer,Corvette,Corvette ZR1,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Hyundai,,26900.0,kilometer,Coupé,Coupé 2.7 24V FX,false,car,,,l_km_consumption
+Limousine,blue,,,,Zuzwil,,Jaguar,,74000.0,kilometer,Xj,XJ8 4.2 V8 Sovereign,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Triumph,,12800.0,kilometer,Dolomite,Sprint,false,car,,,
+SUV / Geländewagen,white,,,,Zuzwil,,Hummer,,150.0,kilometer,H3,H3 3.7 Adventure,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Renault,,34900.0,kilometer,Alpine a110,1600S VC,false,car,,,
+Cabriolet,red,,,,Zuzwil,,Porsche,,148600.0,kilometer,944,944 S2 Cabriolet ABS,false,car,,,
+Limousine,black,,,,Zuzwil,,Bmw,,15300.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,108500.0,kilometer,911,911 Carrera,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Rolls-royce,,73800.0,kilometer,Silver spur,null,false,car,,,
+Kombi,silver,,,,Zuzwil,,Mercedes-benz,,62500.0,kilometer,C 280,C 280 Elégance,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,97100.0,kilometer,2002,Turbo,false,car,,,
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,70400.0,kilometer,Slk 350,SLK 350,false,car,,,l_km_consumption
+Cabriolet,blue,,,,Zuzwil,,Mercedes-benz,,77700.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Mg,,2500.0,kilometer,Metro,6R4 Gruppe B,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Fiat,,28800.0,kilometer,Stilo,Stilo 1.8 16V Swiss,false,car,,,l_km_consumption
+SUV / Geländewagen,blue met.,,,,Zuzwil,,Ford (usa),,50100.0,kilometer,Explorer,Explorer 4.0 Ltd. Edition,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,125000.0,kilometer,S 600,S 600 L,false,car,,,l_km_consumption
+Limousine,violet met.,,,,Zuzwil,,Mercedes-benz,,32000.0,kilometer,S 500,S 500,false,car,,,l_km_consumption
+Kombi,gray,,,,Zuzwil,,Audi,,39000.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,green,,,,Zuzwil,,Mercedes-benz,,62700.0,kilometer,Sl 63 amg,SL 63 AMG,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Bentley,,20000.0,kilometer,Continental,Continental Supersports Conv.,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Vw,,108500.0,kilometer,Touareg,Touareg R50 V10,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,42500.0,kilometer,911,911 GT3,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Bmw,,62300.0,kilometer,M5,M5,false,car,,,l_km_consumption
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Porsche,,31000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Kombi,black,,,,Zuzwil,,Audi,,117400.0,kilometer,Rs4,RS4 Avant 4.2 V8 quattro,false,car,,,l_km_consumption
+Limousine,blue,,,,Zuzwil,,Porsche,,26800.0,kilometer,Panamera,Panamera Turbo 4.8,false,car,,,l_km_consumption
+Limousine,silver,,,,Zuzwil,,Mercedes-benz,,147400.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
+Cabriolet,white,,,,Zuzwil,,Chevrolet,,67000.0,kilometer,Corvette,C1,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,106000.0,kilometer,E 240,E 240 Avantgarde,false,car,,,l_km_consumption
+Coupé,anthrazit,,,,Zuzwil,,Chevrolet,,200.0,kilometer,Corvette,Corvette Z06,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Jaguar,,44200.0,kilometer,S-type,S-Type 4.0 V8,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Maserati,,10600.0,kilometer,Quattroporte,Quattroporte 4.2,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,51000.0,kilometer,Sl 500,SL 500 Edition,false,car,,,l_km_consumption
+Limousine,silver,,,,Zuzwil,,Lancia,,130300.0,kilometer,Delta,Delta HF Integrale Evo 4V,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,22500.0,kilometer,575m,575M,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Mercedes-benz,,137000.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Renault,,69000.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Limousine,white,,,,Zuzwil,,Mercedes-benz,,15800.0,kilometer,Cls 63 amg,CLS 63 AMG,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Bentley,,79700.0,kilometer,Continental,Continental GT 6.0,false,car,,,l_km_consumption
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Mercedes-benz,,88500.0,kilometer,Ml 63 amg,ML 63 AMG 4Matic,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Audi,,34800.0,kilometer,S3,S3 2.0 TFSI quattro,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,34200.0,kilometer,Rs4,RS4 Avant 4.2 FSI quattro,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Audi,,37800.0,kilometer,Rs4,RS4 Avant quattro,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Porsche,,77600.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Bmw,,48000.0,kilometer,M6,M6,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Basel,,Bentley,,15600.0,kilometer,Arnage,Arnage T,false,car,,,l_km_consumption
+Cabriolet,bordeaux met.,,,,Zuzwil,,Bmw,,46000.0,kilometer,M3,M3,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,73900.0,kilometer,S-class,S 55 L AMG,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Mercedes-benz,,99999.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Ford,,11000.0,kilometer,Escort,Escort 2.0i RS Cosworth,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Yes!,,9400.0,kilometer,,Roadster 3.2,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,15300.0,kilometer,Sl 65 amg,SL 65 AMG,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Alfa romeo,,56400.0,kilometer,166,166 3.0 V6 24V Super,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,110800.0,kilometer,S 350,S 350 L 4Matic,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Bmw,,110600.0,kilometer,320,320d xDrive M-Sportpaket,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Audi,,55000.0,kilometer,S8,S8 4.2 quattro,false,car,,,l_km_consumption
+Cabriolet,red,,,,Zuzwil,,Mercedes-benz,,20900.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Cabriolet,red,,,,Zuzwil,,Mercedes-benz,,36800.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Mclaren,,19900.0,kilometer,12c,MP4-12C Coupé 3.8 V8,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Chevrolet,,33000.0,kilometer,Corvette,Corvette 6.2,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Mercedes-benz,,52500.0,kilometer,Clk 55 amg,CLK 55 AMG Avantgarde,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,30500.0,kilometer,Slk 230,SLK 230 Kompressor,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Mercedes-benz,,100.0,kilometer,Clk 430,CLK 430 Elégance,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Bmw,,93000.0,kilometer,540,540i,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,49000.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Limousine,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,120900.0,kilometer,Cls 500,CLS 500,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,156800.0,kilometer,Sl 320,SL 320,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,41000.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Porsche,,51000.0,kilometer,Boxster,Boxster S 3.2,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Bmw,,128600.0,kilometer,633,CSI A,false,car,,,
+Cabriolet,red,,,,Zuzwil,,Porsche,,73200.0,kilometer,Boxster,Boxster 2.5,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,6000.0,kilometer,Rs6,RS6 Avant 4.0 TFSI V8 qu,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,123400.0,kilometer,Slk 32 amg,SLK 32 AMG,false,car,,,l_km_consumption
+Cabriolet,blue,,,,Zuzwil,,Mercedes-benz,,37000.0,kilometer,Sl 600,SL 600,false,car,,,
+Coupé,silver,,,,Zuzwil,,Porsche,,35100.0,kilometer,911,911 Carrera 4,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Renault,,78000.0,kilometer,Alpine,Alpine A310 V6 VFA-2700 VAA,false,car,,,
+Kombi,gray met.,,,,Zuzwil,,Audi,,93500.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Porsche,,74100.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Porsche,,96000.0,kilometer,911,911 Carrera 4 Ruf Turbo BTR 2 420 PS,false,car,,,
+Kombi,red,,,,Zuzwil,,Volvo,,83000.0,kilometer,V70,V70 2.4T,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Trabant,,999.0,kilometer,,1300S Trabusa,false,car,,,
+Kombi,black met.,,,,Safenwil,,Aston martin,,39000.0,kilometer,Lagonda,Shooting Brake,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Bmw-alpina,,19100.0,kilometer,5 series,B5 BiTurbo 4.4 V8,false,car,,,l_km_consumption
+Limousine,white met.,,,,Zuzwil,,Bmw,,39700.0,kilometer,M5,M5,false,car,,,l_km_consumption
+SUV / Geländewagen,gray,,,,Zuzwil,,Porsche,,28000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,62000.0,kilometer,730,730d,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Bentley,,142000.0,kilometer,Continental,Continental GT 6.0,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,25300.0,kilometer,Cls 350,CLS 350 CGI,false,car,,,l_km_consumption
+Cabriolet,white met.,,,,Zuzwil,,Mercedes-benz,,81000.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Limousine,anthrazit met.,,,,Zuzwil,,Bentley,,112500.0,kilometer,Turbo,Turbo R,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Rolls-royce,,99300.0,kilometer,Silver spirit,Mk. I,false,car,,,
+Cabriolet,yellow,,,,Zuzwil,,Porsche,,96000.0,kilometer,911,Targa,false,car,,,
+Kombi,black met.,,,,Zuzwil,,Audi,,38500.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,20500.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Renault,,60000.0,kilometer,Alpine a110,1600 SX,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Lamborghini,,13500.0,kilometer,Murciélago,Murciélago 6.2 Coupé,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Ferrari,,12000.0,kilometer,F12,F12 Berlinetta,false,car,,,l_km_consumption
+Limousine,yellow,,,,Zuzwil,,Bmw,,3000.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Kombi,gray met.,,,,Zuzwil,,Audi,,36700.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Bentley,,15000.0,kilometer,Continental,Continental Supersports Conv.,false,car,,,l_km_consumption
+Cabriolet,red,,,,Zuzwil,,Porsche,,14400.0,kilometer,911,911 Turbo Cabrio,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Renault,,108000.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Audi,,35100.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Lamborghini,,55000.0,kilometer,Diablo,Diablo 5.7,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Rolls-royce,,38000.0,kilometer,Corniche,Corniche,false,car,,,l_km_consumption
+Limousine,violet met.,,,,Zuzwil,,Mercedes-benz,,67400.0,kilometer,E 50 amg,E 50 AMG Avantgarde,false,car,,,l_km_consumption
+Kleinwagen,gold met.,,,,Zuzwil,,Renault,,59900.0,kilometer,R5,R5 Turbo 2,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Lamborghini,,42000.0,kilometer,Gallardo,Gallardo Superleggera,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,125900.0,kilometer,525,525i,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Bmw,,69800.0,kilometer,328,328i Coupé,false,car,,,l_km_consumption
+Coupé,violet met.,,,,Porrentruy,,Lamborghini,,44500.0,kilometer,Diablo,Diablo 5.7 SV,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,68800.0,kilometer,S 65 amg,S 65 AMG L,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Audi,,46000.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Cabriolet,bordeaux met.,,,,Zuzwil,,Mercedes-benz,,63600.0,kilometer,Sl 300,SL 300,false,car,,,
+Coupé,anthrazit met.,,,,Sursee,,Bugatti,,20000.0,kilometer,,Veyron 16.4,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,13900.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Nissan,,15000.0,kilometer,Skyline,Rennwagen,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Jaguar,,49500.0,kilometer,Xk,XKR 5.0 V8 SC,false,car,,,l_km_consumption
+,black met.,,,,Zuzwil,,Harley-davidson,,100.0,kilometer,,HPU Hurricane TC,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Porsche,,60500.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Lamborghini,,18000.0,kilometer,Gallardo,Gallardo LP570-4 Coupé SL,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,130000.0,kilometer,S 65 amg,S 65 AMG L,false,car,,,l_km_consumption
+Coupé,green,,,,Zuzwil,,Ferrari,,34000.0,kilometer,348,348 tb,false,car,,,
+Kombi,anthrazit met.,,,,Zuzwil,,Audi,,27900.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,gray,,,,Zuzwil,,Ferrari,,16600.0,kilometer,F360,F360 Spider,false,car,,,l_km_consumption
+Coupé,green,,,,Zuzwil,,Mercedes-benz,,88500.0,kilometer,S 600,S 600,false,car,,,
+Coupé,red,,,,Zuzwil,,Porsche,,29000.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Mercedes-benz,,7400.0,kilometer,E 63 amg,E 63 AMG,false,car,,,l_km_consumption
+Coupé,black met.,,,,St. Gallen,,Lamborghini,,1700.0,kilometer,Gallardo,GallardoLP570-4CpéTecnica,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Bmw,,162000.0,kilometer,320,320d Touring,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Renault,,57700.0,kilometer,Alpine a110,1600S,false,car,,,
+Kombi,gray met.,,,,Zuzwil,,Bmw,,76500.0,kilometer,535,535i Touring,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Porsche,,9650.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+SUV / Geländewagen,black,,,,Zuzwil,,Bmw,,66800.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Mercedes-benz,,28100.0,kilometer,G 63 amg,G 63 AMG,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bentley,,28000.0,kilometer,Continental,Continental FlyingSpur6.0,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Renault,,111990.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Coupé,silver,,,,Zuzwil,,Ferrari,,28900.0,kilometer,599,599 GTB HGTE,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Bmw,,23900.0,kilometer,M3,M3,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mitsubishi,,120800.0,kilometer,Lancer,EVO V,false,car,,,
+Coupé,blue met.,,,,Zuzwil,,Mercedes-benz,,111000.0,kilometer,S 600,S 600,false,car,,,
+Cabriolet,blue met.,,,,Zuzwil,,Bmw,,49600.0,kilometer,M3,M3,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,74400.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+SUV / Geländewagen,blue met.,,,,Zuzwil,,Land rover,,49700.0,kilometer,Range rover,Range Rover 4.6 HSE,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Sursee,,Ferrari,,5000.0,kilometer,Dino,246 GTS,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Vw,,33500.0,kilometer,Jetta,Jetta 2.0 TDI Comfort,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Bmw,,66800.0,kilometer,M6,M6,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Audi,,125000.0,kilometer,Quattro,quattro Turbo 20V,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Audi,,5900.0,kilometer,R8,R8 GT Spyder 5.2,false,car,,,l_km_consumption
+Kombi,silver met.,,,,Zuzwil,,Audi,,118800.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,19999.0,kilometer,F430,F430 Scuderia,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,105300.0,kilometer,Sl 350,SL 350,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Porsche,,68900.0,kilometer,Boxster,Boxster S 3.4,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Lamborghini,,33000.0,kilometer,Murciélago,Murciélago LP640-4 Cpé,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Audi,,500.0,kilometer,R8,R8 Coupé 4.2,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,39900.0,kilometer,E 63 amg,E 63 AMG Avantgarde,false,car,,,l_km_consumption
+Coupé,white met.,,,,Zuzwil,,Ferrari,,36000.0,kilometer,456,456M GT,false,car,,,l_km_consumption
+Coupé,bordeaux,,,,Zuzwil,,Mercedes-benz,,1.0,kilometer,,170V B Cabrio 136,false,car,,,
+Coupé,red,,,,Zuzwil,,Ferrari,,4400.0,kilometer,F430,F430,false,car,,,l_km_consumption
+Limousine,red met,,,,Zuzwil,,Toyota,,78000.0,kilometer,,1000 / Publica,false,car,,,
+Cabriolet,black,,,,Zuzwil,,Audi,,37000.0,kilometer,R8,R8 Spyder 5.2,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Ferrari,,23100.0,kilometer,575m,575M,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,86900.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Maserati,,38400.0,kilometer,Gransport,Coupé GranSport,false,car,,,l_km_consumption
+Cabriolet,anthrazit met.,,,,Zuzwil,,Porsche,,89500.0,kilometer,911,911 Carrera,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Toyota,,101400.0,kilometer,Corolla,Corolla 1600 GTi TC16,false,car,,,
+Limousine,green,,,,Zuzwil,,Audi,,63400.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Mercedes-benz,,41100.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Bentley,,60000.0,kilometer,Continental,Continental R Coupé,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Porsche,,16300.0,kilometer,911,GTR (GT3),false,car,,,
+Cabriolet,white,,,,Zuzwil,,Maserati,,78300.0,kilometer,Spyder gt,Spyder GT,false,car,,,l_km_consumption
+Coupé,gray,,,,Zuzwil,,Mercedes-benz,,165.0,kilometer,Cl 500,CL 500,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Bmw,,1600.0,kilometer,M3,M3,false,car,,,l_km_consumption
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Land rover,,42000.0,kilometer,Range rover,Range Rover 4.6 HSE,false,car,,,l_km_consumption
+Cabriolet,orange,,,,Zuzwil,,Mercedes-benz,,89100.0,kilometer,,SL 60,false,car,,,
+Limousine,red,,,,Zuzwil,,Mercedes-benz,,4900.0,kilometer,S 63 amg,S 63 AMG,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,19200.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Porrentruy,,Alfa romeo,,23900.0,kilometer,8c,null,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Bmw,,10900.0,kilometer,Z4,Z4 M Coupé,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Audi,,108200.0,kilometer,Rs4,RS4 4.2 V8 quattro,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,60800.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Bmw,,32000.0,kilometer,M6,M6,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Bmw,,21700.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Aston martin,,92500.0,kilometer,V8 vantage,V8 Vantage 4.3,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Lotus,,75100.0,kilometer,Elise,Elise,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Bmw,,23800.0,kilometer,X5,X5 4.6is,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Toyota,,38700.0,kilometer,Celica,2000GT,false,car,,,
+Cabriolet,white,,,,Zuzwil,,Mazda,,6900.0,kilometer,Mx-5,MX-5 1.8i 16V Confort,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,91600.0,kilometer,500,500 SE,false,car,,,
+SUV / Geländewagen,gray,,,,Zuzwil,,Porsche,,68700.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Bmw,,113000.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+Kombi,red,,,,Zuzwil,,Audi,,89000.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Cabriolet,blue,,,,Zuzwil,,Mercedes-benz,,47700.0,kilometer,,SL 250 Pagode,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,39800.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Mercedes-benz,,43000.0,kilometer,Cl 65 amg,CL 65 AMG,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Sursee,,Chevrolet,,10000.0,kilometer,Camaro,null,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Vw,,87000.0,kilometer,Golf,Golf 2.0 TFSI GTI,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Renault,,11200.0,kilometer,Alpine,A310 2700 VA,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Honda,,111500.0,kilometer,Legend,Legend V6 3.5i,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Renault,,68900.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Coupé,black,,,,Zuzwil,,Aston martin,,28800.0,kilometer,V8 vantage,V8 Vantage 4.3,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Porsche,,35500.0,kilometer,Panamera,Panamera 4S 4.8,false,car,,,l_km_consumption
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Land rover,,54600.0,kilometer,Range rover,Range Rover 4.6 HSE,false,car,,,l_km_consumption
+Coupé,anthrazit met.,,,,Zuzwil,,Porsche,,47600.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Porsche,,91000.0,kilometer,911,911 Carrera RS Clubsport/993 GT2,false,car,,,
+Cabriolet,gray met.,,,,Zuzwil,,Lamborghini,,4900.0,kilometer,Gallardo,Gallardo LP560-4 Spyder,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Austin-healey,,9999.0,kilometer,,BT7 3000 Mk I,false,car,,,
+Coupé,blue,,,,Porrentruy,,Lamborghini,,49500.0,kilometer,Diablo,Diablo 5.7,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Renault,,8000.0,kilometer,Sport spider,Windschutzscheibe,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,83600.0,kilometer,Sl 320,SL 320,false,car,,,l_km_consumption
+Cabriolet,red,,,,Zuzwil,,Ferrari,,67000.0,kilometer,F355,F355 Spider,false,car,,,l_km_consumption
+SUV / Geländewagen,silver,,,,Zuzwil,,Vw,,104500.0,kilometer,Touareg,Touareg 5.0 TDI V10,false,car,,,l_km_consumption
+Kleinwagen,gray,,,,Zuzwil,,Renault,,124500.0,kilometer,R5,R5 1400 Alpine Turbo,false,car,,,
+Limousine,black,,,,Zuzwil,,Bmw,,94500.0,kilometer,760,760i L,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,52000.0,kilometer,S 500,S 500,false,car,,,l_km_consumption
+Coupé,anthrazit met.,,,,Zuzwil,,Ruf,,36000.0,kilometer,,RT 12,false,car,,,
+Coupé,white,,,,Zuzwil,,Renault,,31800.0,kilometer,Alpine a110,1300 VC Gordini,false,car,,,
+Coupé,green,,,,Zuzwil,,Audi,,61300.0,kilometer,R8,R8 Coupé 4.2,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Audi,,19900.0,kilometer,A8,A8 3.7,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Lancia,,131000.0,kilometer,Delta,Delta HF Integrale Evo 4V,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Bmw,,86300.0,kilometer,328,328i,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,16500.0,kilometer,Mondial,Mondial 3.4 T,false,car,,,
+Kombi,white,,,,Zuzwil,,Audi,,120000.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Audi,,143700.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Bmw,,34400.0,kilometer,728,728i,false,car,,,l_km_consumption
+Coupé,white met.,,,,Porrentruy,,Lamborghini,,5900.0,kilometer,,Reventon Coupé,false,car,,,
+Kombi,anthrazit,,,,Zuzwil,,Audi,,25400.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Porsche,,135800.0,kilometer,911,911 Carrera,false,car,,,l_km_consumption
+Limousine,green,,,,Zuzwil,,Bmw,,195800.0,kilometer,M3,M3,false,car,,,
+Cabriolet,green met.,,,,Zuzwil,,Aston martin,,71300.0,kilometer,Dbs,DBS Volante,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Bmw,,140000.0,kilometer,323,323Ci,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Alfa romeo,,18400.0,kilometer,Gtv,2000 Bertone,false,car,,,
+Kleinwagen,black,,,,Zuzwil,,Seat,,132200.0,kilometer,Ibiza,Ibiza 1.9 TDI FR,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Jaguar,,49200.0,kilometer,E,E-Type III,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Ferrari,,36000.0,kilometer,612,612,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Chevrolet,,4000.0,kilometer,Corvette,Corvette ZR1,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,96500.0,kilometer,S 55 amg,S 55 AMG,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Ferrari,,28000.0,kilometer,575m,575M,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,56500.0,kilometer,Sl 500,SL 500,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Ferrari,,26200.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Land rover,,46500.0,kilometer,Range rover,Range Rover 4.6 HSE,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,77600.0,kilometer,911,911 Carrera,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Audi,,26700.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Porsche,,73500.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,55300.0,kilometer,Sl 500,SL 500,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Mercedes-benz,,35800.0,kilometer,Cl 63 amg,CL 63 AMG FAB DESIGN,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,500.0,kilometer,,CLK DTM AMG Cabriolet,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,33000.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Jaguar,,99900.0,kilometer,Xj,XJR 4.0 Supercharged,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,145100.0,kilometer,C 320,C 320 Elégance,false,car,,,l_km_consumption
+Cabriolet,gray,,,,Zuzwil,,Mazda,,67200.0,kilometer,Rx-7,RX-7 2.6 Turbo II,false,car,,,
+Cabriolet,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,48300.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Lamborghini,,90.0,kilometer,Aventador,Aventador LP700-4 Rds,false,car,,,l_km_consumption
+Cabriolet,blue,,,,Zuzwil,,Mercedes-benz,,59300.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,31200.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Limousine,green,,,,Zuzwil,,Bmw,,176000.0,kilometer,323,323i,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Mercedes-benz,,72000.0,kilometer,,E 60 Carlsson,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Vw,,31300.0,kilometer,Phaeton,Phaeton 6.0 W12 4Motion,false,car,,,l_km_consumption
+Limousine,white,,,,Zuzwil,,Rolls-royce,,54000.0,kilometer,Phantom,Phantom 6.7 V12,false,car,,,l_km_consumption
+Coupé,gray,,,,Zuzwil,,Ruf,,20900.0,kilometer,,CTR 2 Sport,false,car,,,
+Kombi,gray met.,,,,Zuzwil,,Audi,,100200.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,206000.0,kilometer,E 500,E 500 Limited,false,car,,,
+Cabriolet,red,,,,Zuzwil,,Dodge,,18600.0,kilometer,Viper,RT/10,false,car,,,
+Kombi,red,,,,Zuzwil,,Chrysler,,47100.0,kilometer,300c,300C T 5.7 HEMI V8,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Audi,,49300.0,kilometer,S8,S8 4.2 quattro,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Porsche,,16500.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,74500.0,kilometer,S 500,S 500 L,false,car,,,l_km_consumption
+Kombi,silver met.,,,,Zuzwil,,Audi,,144100.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,68100.0,kilometer,911,911 Carrera 4 S,false,car,,,l_km_consumption
+Cabriolet,bordeaux,,,,Zuzwil,,Mercedes-benz,,23000.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Coupé,black met.,,,,Porrentruy,,Lamborghini,,45700.0,kilometer,Diablo,Diablo 5.7 SV,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,80000.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Renault,,42940.0,kilometer,Alpine,1600 VF,false,car,,,
+Limousine,white,,,,Zuzwil,,Bentley,,34900.0,kilometer,Arnage,Arnage Green Label,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Bmw,,27700.0,kilometer,Z1,null,false,car,,,
+Coupé,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,34500.0,kilometer,Slr,730PS,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Renault,,85000.0,kilometer,Alpine a110,1300,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,47900.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw-alpina,,157000.0,kilometer,5 series,B7 (E28),false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Bentley,,29000.0,kilometer,Continental,Continental FlyingSpur6.0,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,56100.0,kilometer,E 320,E 320 Elégance,false,car,,,l_km_consumption
+Limousine,brown met.,,,,Zuzwil,,Bmw,,33700.0,kilometer,328,328i,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Mercedes-benz,,79500.0,kilometer,Cl 500,CL 500 4Matic,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Audi,,34650.0,kilometer,Rs4,RS4 Cabriolet 4.2 quattro,false,car,,,l_km_consumption
+Limousine,silver,,,,Zuzwil,,Audi,,1350.0,kilometer,Rs4,RS4 4.2 V8 quattro,false,car,,,l_km_consumption
+Kleinwagen,blue met.,,,,Zuzwil,,Daihatsu,,61800.0,kilometer,Charade,Charade 1.0 Turbo,false,car,,,
+Cabriolet,silver met.,,,,Safenwil,,Triumph,,98320.0,kilometer,Tr3,null,false,car,,,
+Coupé,white,,,,Zuzwil,,Delorean,,15000.0,kilometer,,De Lorean DMC-12,false,car,,,
+Coupé,blue met.,,,,Zuzwil,,Porsche,,33000.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,yellow,,,,Zuzwil,,Mazda,,158000.0,kilometer,626,626 2.0i-16V HPV,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Mercedes-benz,,118300.0,kilometer,Cls 55 amg,CLS 55 AMG,false,car,,,l_km_consumption
+Kombi,blue,,,,Zuzwil,,Audi,,50000.0,kilometer,Rs4,RS4 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,75200.0,kilometer,Sl 600,SL 600,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Maserati,,38900.0,kilometer,Coupé gt,Coupé GT,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Renault,,172800.0,kilometer,R5,Alpine Turbo,false,car,,,
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Porsche,,127000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Limousine,beige,,,,Zuzwil,,Mercedes-benz,,46000.0,kilometer,S 65 amg,S 65 L / BRABUS T65 S,false,car,,,l_km_consumption
+SUV / Geländewagen,blue,,,,Zuzwil,,Lincoln,,130000.0,kilometer,Navigator,32 V,false,car,,,
+Coupé,red met,,,,Zuzwil,,Porsche,,100.0,kilometer,911,911 Turbo S,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,100.0,kilometer,911,911 GT3,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Bmw,,29600.0,kilometer,M6,M6,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Mercedes-benz,,72200.0,kilometer,Cl 500,CL 500 Prime Edition,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Porsche,,132600.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Bmw,,82500.0,kilometer,323,323i Sport Edition,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Marcos,,85000.0,kilometer,,1600 GT,false,car,,,
+Limousine,red met,,,,Zuzwil,,Mercedes-benz,,33700.0,kilometer,E 50 amg,E 50 AMG Avantgarde,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Maserati,,21500.0,kilometer,Quattroporte,Quattroporte 4.2,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,51800.0,kilometer,Rs4,RS4 Avant quattro,false,car,,,l_km_consumption
+Kombi,silver,,,,Zuzwil,,Audi,,144200.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,gold met.,,,,Zuzwil,,Bmw,,78900.0,kilometer,M3,M3,false,car,,,l_km_consumption
+Limousine,gray,,,,Zuzwil,,Bentley,,145000.0,kilometer,Arnage,Arnage R,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Mercedes-benz,,33400.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Mercedes-benz,,34500.0,kilometer,E 63 amg,E 63 AMG,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Chrysler,,20000.0,kilometer,Viper,Viper RT/10,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Bmw,,35000.0,kilometer,M3,M3 CSL,false,car,,,l_km_consumption
+Limousine,bordeaux met.,,,,Zuzwil,,Mercedes-benz,,128000.0,kilometer,S 500,S 500,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Dodge,,37900.0,kilometer,Viper,null,false,car,,,
+Limousine,black,,,,Zuzwil,,Bentley,,111600.0,kilometer,Arnage,Arnage Red Label,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Ford,,64600.0,kilometer,Capri,RS 2600,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Mercedes-benz,,48300.0,kilometer,Cl 55 amg,CL 55 AMG,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Porsche,,88100.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Aston martin,,68800.0,kilometer,Virage,Virage,false,car,,,
+Coupé,green met.,,,,Zuzwil,,Fiat,,131000.0,kilometer,Dino,2400 Coupé,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Bmw,,79500.0,kilometer,330,330Ci,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Jaguar,,69200.0,kilometer,S-type,S-Type 4.0 V8,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Mercedes-benz,,75300.0,kilometer,,6.7 BRABUS,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,123400.0,kilometer,C 230,C 230 Elégance,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Maserati,,50300.0,kilometer,Spyder gt,Spyder GT,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Alfa romeo,,81900.0,kilometer,Alfasud,Alfasud 1.5 ti,false,car,,,
+Limousine,red,,,,Zuzwil,,Bentley,,60100.0,kilometer,Turbo,Turbo R,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Fiat,,80000.0,kilometer,131,Racing / Sport,false,car,,,
+Limousine,gray met.,,,,Zuzwil,,Audi,,66300.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Rolls-royce,,30900.0,kilometer,Silver shadow,II,false,car,,,
+Limousine,black,,,,Zuzwil,,Mercedes-benz,,121900.0,kilometer,S 55 amg,S 55 AMG,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Renault,,40700.0,kilometer,Alpine a110,1600 SC,false,car,,,
+Coupé,blue met.,,,,Zuzwil,,Ferrari,,51200.0,kilometer,575m,575M,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,43000.0,kilometer,S 250,S 250 CDI BlueEff SS,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Saab,,138000.0,kilometer,9-3,9-3 2.0i-16 T SE,false,car,,,l_km_consumption
+Coupé,black,,,,Porrentruy,,Lamborghini,,7890.0,kilometer,Murciélago,Murciélago LP640-4 Cpé,false,car,,,l_km_consumption
+SUV / Geländewagen,blue,,,,Zuzwil,,Land rover,,49900.0,kilometer,Range rover sport,Range Rover Sport 4.2 V8 SC,false,car,,,l_km_consumption
+Cabriolet,anthrazit met.,,,,Zuzwil,,Aston martin,,31800.0,kilometer,Db9,DB9 Volante,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Porsche,,34400.0,kilometer,911,911 Carrera Cabrio,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Mercedes-benz,,166550.0,kilometer,Slk 230,SLK 230 Kompressor,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Toyota,,53100.0,kilometer,Celica,1600 GT,false,car,,,
+Kombi,gray met.,,,,Zuzwil,,Audi,,59900.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Cabriolet,black,,,,Zuzwil,,Bmw,,65300.0,kilometer,330,330Ci,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,38200.0,kilometer,911,911 Carrera 4,false,car,,,l_km_consumption
+Coupé,white met.,,,,Zuzwil,,Mercedes-benz,,26800.0,kilometer,S 600,S 600,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Audi,,49000.0,kilometer,A8,A8  6.0 quattro,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Lexus,,34000.0,kilometer,Gs,GS 450h,false,car,,,l_km_consumption
+Kombi,red met,,,,Zuzwil,,Audi,,196300.0,kilometer,A4,A4 Avant 2.8 q.Ambition,false,car,,,l_km_consumption
+SUV / Geländewagen,black,,,,Zuzwil,,Jeep,,133500.0,kilometer,Grand cherokee,Grand Cherokee 5.2 Ltd.,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Porsche,,127800.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Audi,,49900.0,kilometer,Tt,TT Roadster 1.8 T,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Porsche,,43400.0,kilometer,Boxster,Boxster S 3.2,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,39800.0,kilometer,S 65 amg,S 65 AMG L,false,car,,,l_km_consumption
+Coupé,red,,,,Zuzwil,,Porsche,,58200.0,kilometer,911,911 Carrera,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,72600.0,kilometer,Rs4,RS4 Avant quattro,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Land rover,,87000.0,kilometer,Range rover,Range Rover 4.6 HSE,false,car,,,l_km_consumption
+Limousine,silver,,,,Zuzwil,,Audi,,57000.0,kilometer,S8,S8 4.2 quattro,false,car,,,l_km_consumption
+Cabriolet,green met.,,,,Zuzwil,,Mercedes-benz,,23700.0,kilometer,Clk 55 amg,CLK 55 AMG Avantgarde,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,54100.0,kilometer,911,911 GT2,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Porsche,,35500.0,kilometer,911,911 Turbo Cabrio,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,42200.0,kilometer,612,612,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Mg,,37000.0,kilometer,,Roadster,false,car,,,
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,6000.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Bmw,,65400.0,kilometer,740,740i,false,car,,,
+Coupé,red,,,,Zuzwil,,Mitsubishi,,114800.0,kilometer,Starion,Starion 2000 Turbo,false,car,,,
+Cabriolet,black met.,,,,Zuzwil,,Porsche,,30600.0,kilometer,911,911 Carrera 4S Cabrio,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Ferrari,,27650.0,kilometer,F360,F360 Challenge stradale,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Bmw,,64700.0,kilometer,323,E21,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Maserati,,39500.0,kilometer,Biturbo,Biturbo Spyder E,false,car,,,
+Kombi,blue met.,,,,Zuzwil,,Mercedes-benz,,126000.0,kilometer,E 230,E 230 Elégance,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Mercedes-benz,,73400.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Audi,,316200.0,kilometer,S3,S3 quattro,false,car,,,l_km_consumption
+Pick-up,black met.,,,,Zuzwil,,Dodge,,41000.0,kilometer,Ram,SRT-10,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Lamborghini,,9500.0,kilometer,Murciélago,Murciélago LP670-4 SV Cpé,false,car,,,l_km_consumption
+Cabriolet,blue,,,,Zuzwil,,Porsche,,78000.0,kilometer,911,911 Carrera Cabrio,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Audi,,49800.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Bmw-alpina,,66800.0,kilometer,6 series,B6 4.4 V8 Cabrio,false,car,,,l_km_consumption
+SUV / Geländewagen,blue met.,,,,Zuzwil,,Mercedes-benz,,25100.0,kilometer,Ml 63 amg,ML 63 AMG 4Matic,false,car,,,l_km_consumption
+Coupé,bordeaux met.,,,,Zuzwil,,Fiat,,9999.0,kilometer,,850 Spider,false,car,,,
+Coupé,gray met.,,,,Zuzwil,,Mercedes-benz,,55900.0,kilometer,Cl 500,CL 500,false,car,,,l_km_consumption
+Cabriolet,red met,,,,Zuzwil,,Jaguar,,77600.0,kilometer,Xk,XKR S/C Convertible,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Ferrari,,680.0,kilometer,458,458 Italia 4.5 V8,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Sursee,,Mercedes-benz,,500.0,kilometer,280,3.5 V8 Cabrio,false,car,,,
+Limousine,white,,,,Zuzwil,,Mercedes-benz,,37500.0,kilometer,Cls 63 amg,CLS 63 AMG,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Bmw,,78700.0,kilometer,540,540i,false,car,,,l_km_consumption
+Limousine,gray,,,,Zuzwil,,Mercedes-benz,,47400.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Bmw,,104650.0,kilometer,,1602,false,car,,,
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Porsche,,59900.0,kilometer,Cayenne,Cayenne S,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Renault,,99.0,kilometer,Clio,Rennwagen,false,car,,,
+Coupé,red,,,,Zuzwil,,Mercedes-benz,,43000.0,kilometer,Sl 65 amg,BLACK SERIES,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Vw,,50400.0,kilometer,Phaeton,Phaeton 6.0 W12 4Motion,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Bmw,,228000.0,kilometer,323,323Ci,false,car,,,l_km_consumption
+Coupé,silver,,,,Zuzwil,,Mercedes-benz,,75400.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,69100.0,kilometer,S 320,S 320,false,car,,,l_km_consumption
+Cabriolet,gray,,,,Zuzwil,,Ferrari,,41000.0,kilometer,F355,F355 GTS,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Audi,,69900.0,kilometer,A8,A8 4.2 quattro,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bentley,,36000.0,kilometer,Arnage,Arnage T,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,129800.0,kilometer,3.0,CSL,false,car,,,
+Coupé,red,,,,Zuzwil,,Mercedes-benz,,36600.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,58000.0,kilometer,S 320,S 320,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Bmw,,8500.0,kilometer,M6,M6,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ferrari,,53600.0,kilometer,F355,F355 Berlinetta,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,127850.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Renault,,41400.0,kilometer,Alpine a110,1600 SX,false,car,,,
+Cabriolet,green met.,,,,Zuzwil,,Mercedes-benz,,16300.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Mercedes-benz,,69200.0,kilometer,Cls 63 amg,CLS 63 AMG,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Ferrari,,52800.0,kilometer,456,456 GTA,false,car,,,
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,55200.0,kilometer,Sl 500,SL 500 Special Edition,false,car,,,
+Coupé,black,,,,Basel,,Rolls-royce,,32000.0,kilometer,Corniche,II Coupé,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,45600.0,kilometer,S 63 amg,S 63 AMG L,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Porsche,,34000.0,kilometer,911,Turbo,false,car,,,
+Limousine,green met.,,,,Zuzwil,,Bmw,,33600.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,68500.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Rolls-royce,,42000.0,kilometer,Corniche,Corniche,false,car,,,l_km_consumption
+Coupé,gray,,,,Zuzwil,,Bugatti,,4000.0,kilometer,Eb,110 GT/SS,false,car,,,
+Cabriolet,green met.,,,,Zuzwil,,Porsche,,16000.0,kilometer,911,911 Turbo S Cabrio SPEED ART 580PS,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Maserati,,8700.0,kilometer,Granturismo,GranTurismo,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Vw,,27000.0,kilometer,Eos,Eos 2.0 FSI T,false,car,,,l_km_consumption
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Land rover,,151300.0,kilometer,Range rover,3.5,false,car,,,
+Kombi,red,,,,Zuzwil,,Audi,,112400.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro 730PS,false,car,,,l_km_consumption
+Coupé,blue,,,,Zuzwil,,Porsche,,61300.0,kilometer,911,911 GT2,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,125600.0,kilometer,Sl 500,SL 500,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Bmw,,19000.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Kombi,white,,,,Zuzwil,,Audi,,15000.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Porsche,,69200.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Cabriolet,silver,,,,Zuzwil,,Mercedes-benz,,111500.0,kilometer,Sl 500,SL 500,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,48200.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Lamborghini,,20000.0,kilometer,Gallardo,Gallardo 5.0 V10 Coupé SE,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Mercedes-benz,,23900.0,kilometer,E 63 amg,E 63 AMG S 4Matic,false,car,,,l_km_consumption
+Kombi,gray met.,,,,Zuzwil,,Audi,,32900.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Ford,,69377.0,kilometer,Cortina,Cortina Lotus,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Lamborghini,,20600.0,kilometer,Diablo,Diablo 5.7,false,car,,,
+Coupé,black met.,,,,Zuzwil,,Bmw,,58300.0,kilometer,M6,M6,false,car,,,l_km_consumption
+Cabriolet,white met.,,,,Zuzwil,,Mercedes-benz,,15600.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Limousine,gray,,,,Zuzwil,,Mercedes-benz,,54500.0,kilometer,S 500,S 500 L 4Matic,false,car,,,l_km_consumption
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,32700.0,kilometer,S 500,S 500 L,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,38700.0,kilometer,Slk 230,SLK 230 Kompressor,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Bmw-alpina,,99400.0,kilometer,3 series,B3 3.2 Coupé S.Tronic,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Mercedes-benz,,49600.0,kilometer,G 55 amg,G 55 AMG,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Ferrari,,113800.0,kilometer,612,612,false,car,,,l_km_consumption
+Limousine,blue met.,,,,Zuzwil,,Citroen,,83800.0,kilometer,C5,C5 3.0 V6 Exclusive,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,29800.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Bmw,,14700.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+Kleinwagen,white,,,,Zuzwil,,Autobianchi,,9999.0,kilometer,A112,Abarth Serie II,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Bmw-alpina,,199300.0,kilometer,5 series,B7 TURBO,false,car,,,
+Coupé,gray met.,,,,Zuzwil,,Porsche,,44600.0,kilometer,911,911 GT2,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Audi,,101900.0,kilometer,A4,A4 Avant 3.0 V6,false,car,,,l_km_consumption
+Kombi,silver met.,,,,Zuzwil,,Audi,,46900.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,yellow,,,,Zuzwil,,Morgan,,7100.0,kilometer,4/4,4/4 1.8,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Bentley,,50900.0,kilometer,Continental,Continental GTC 6.0,false,car,,,l_km_consumption
+SUV / Geländewagen,black met.,,,,Zuzwil,,Land rover,,70400.0,kilometer,Range rover,Range Rover 4.6 HSE,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Lamborghini,,2100.0,kilometer,Huracan,Huracan LP610-4 Coupé,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Bmw,,157400.0,kilometer,,323 i E21,false,car,,,
+Kombi,anthrazit,,,,Zuzwil,,Audi,,38500.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Coupé,green met.,,,,Porrentruy,,Lamborghini,,64800.0,kilometer,Diablo,Diablo SE 30,false,car,,,
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,66100.0,kilometer,Cls 500,CLS 500,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Bmw,,4600.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,128200.0,kilometer,911,Turbo ll 3.6,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Bentley,,19300.0,kilometer,Arnage,Arnage Red Label,false,car,,,l_km_consumption
+Cabriolet,green,,,,Zuzwil,,Mclaren,,16000.0,kilometer,12c,MP4-12C Spider 3.8 V8,false,car,,,l_km_consumption
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,24000.0,kilometer,Sl 65 amg,SL 65 AMG,false,car,,,l_km_consumption
+Cabriolet,white met.,,,,Zuzwil,,Porsche,,29800.0,kilometer,911,911 Carrera S Cabrio,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Land rover,,55800.0,kilometer,Discovery,Discovery 3.9,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Maserati,,53000.0,kilometer,Coupé gt,Coupé GT,false,car,,,l_km_consumption
+Kombi,silver met.,,,,Zuzwil,,Audi,,47400.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+SUV / Geländewagen,white,,,,Zuzwil,,Mercedes-benz,,37500.0,kilometer,Ml 500,ML 500 4Matic,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Mercedes-benz,,83000.0,kilometer,E 320,E 320 Avantgarde,false,car,,,l_km_consumption
+Cabriolet,beige met.,,,,Zuzwil,,Mercedes-benz,,34000.0,kilometer,Sl 500,SL 500,false,car,,,
+SUV / Geländewagen,black met.,,,,Zuzwil,,Toyota,,240500.0,kilometer,Land cruiser,BJ 40 LT,false,car,,,
+Kleinwagen,blue met.,,,,Zuzwil,,Renault,,147900.0,kilometer,Clio,Clio 2.0 16V Sport,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Lamborghini,,19300.0,kilometer,Gallardo,Gallardo LP570-4 Coupé SL,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Mercedes-benz,,45000.0,kilometer,Clk 63 amg,CLK 63 AMG Black Series,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,100.0,kilometer,E 320,E 320 CDI Avantgarde,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Bmw,,41900.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+Cabriolet,blue met.,,,,Zuzwil,,Maserati,,49300.0,kilometer,Spyder gt,Spyder GT,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,69600.0,kilometer,750,750i,false,car,,,l_km_consumption
+SUV / Geländewagen,silver met.,,,,Zuzwil,,Mercedes-benz,,126300.0,kilometer,Ml 350,ML 350 Inspiration,false,car,,,l_km_consumption
+Cabriolet,white met.,,,,Zuzwil,,Mclaren,,12000.0,kilometer,12c,MP4-12C Cabriolet 3.8 V8,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Porrentruy,,Ferrari,,42500.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Lamborghini,,38000.0,kilometer,Murciélago,Murciélago LP640-4 Cpé,false,car,,,l_km_consumption
+Limousine,green met.,,,,Zuzwil,,Audi,,94000.0,kilometer,A6,A6 2.8 Ambiente,false,car,,,l_km_consumption
+SUV / Geländewagen,black,,,,Zuzwil,,Bmw,,3600.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+Cabriolet,gray,,,,Zuzwil,,Jaguar,,99800.0,kilometer,Xk,XK8 Convertible,false,car,,,l_km_consumption
+Limousine,red,,,,Zuzwil,,Vw,,84600.0,kilometer,Phaeton,Phaeton 3.0 TDi V6 4M,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,21300.0,kilometer,Cls 500,CLS 500,false,car,,,l_km_consumption
+Kleinwagen,silver met.,,,,Zuzwil,,Renault,,147800.0,kilometer,R5,Alpine,false,car,,,
+Kleinwagen,silver met.,,,,Zuzwil,,Citroen,,80500.0,kilometer,2cv,2CV6 Charleston,false,car,,,
+Kombi,gray,,,,Zuzwil,,Audi,,24600.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro MTM,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Porsche,,47700.0,kilometer,911,911 Carrera 4,false,car,,,l_km_consumption
+Coupé,anthrazit met.,,,,Zuzwil,,Renault,,153600.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Cabriolet,red,,,,Zuzwil,,Mercedes-benz,,117900.0,kilometer,Sl 500,SL 500,false,car,,,
+Cabriolet,black,,,,Zuzwil,,Mercedes-benz,,129700.0,kilometer,Sl 500,SL 500,false,car,,,
+Limousine,blue,,,,Zuzwil,,Lancia,,68000.0,kilometer,Delta,Integrale EVO,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,160.0,kilometer,Slk 200,SLK 200 Kompressor,false,car,,,l_km_consumption
+Limousine,yellow,,,,Zuzwil,,Audi,,103100.0,kilometer,S6,S6 quattro,false,car,,,l_km_consumption
+Limousine,black,,,,Zuzwil,,Mercedes-benz,,156300.0,kilometer,500,500 SE,false,car,,,
+Limousine,black,,,,Zuzwil,,Maserati,,58900.0,kilometer,Quattroporte,Quattroporte 4.2 Sport GT,false,car,,,l_km_consumption
+SUV / Geländewagen,black,,,,Zuzwil,,Opel,,153900.0,kilometer,Frontera,Frontera 3.2i V6 Limited,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,29800.0,kilometer,911,911 GT3,false,car,,,l_km_consumption
+Limousine,silver,,,,Zuzwil,,Bmw,,33600.0,kilometer,545,545i,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,33600.0,kilometer,M5,M5,false,car,,,l_km_consumption
+Cabriolet,anthrazit met.,,,,Zuzwil,,Mercedes-benz,,16500.0,kilometer,Sl 55 amg,SL 55 AMG,false,car,,,l_km_consumption
+Limousine,bordeaux met.,,,,Zuzwil,,Mercedes-benz,,67400.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Mercedes-benz,,1500.0,kilometer,S 500,S 500,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Nsu,,82804.0,kilometer,,TT,false,car,,,
+Cabriolet,white,,,,Zuzwil,,Mercedes-benz,,43000.0,kilometer,Sl 600,SL 600,false,car,,,l_km_consumption
+Pick-up,white,,,,Zuzwil,,Chevrolet,,34500.0,kilometer,Silverado,2500HD 6.6l V8,false,car,,,
+Cabriolet,gray,,,,Zuzwil,,Porsche,,61800.0,kilometer,911,911 Carrera Targa,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Ferrari,,41500.0,kilometer,F360,F360 Modena Berlinetta,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Renault,,71600.0,kilometer,Alpine,Alpine A610 Turbo,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Porsche,,26300.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,578.0,kilometer,2002,Turbo,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,198000.0,kilometer,190,190 E 2.5-16 ABS,false,car,,,
+Limousine,white,,,,Zuzwil,,Audi,,95300.0,kilometer,A4,A4 3.0 V6,false,car,,,l_km_consumption
+Coupé,white,,,,Zuzwil,,Mercedes-benz,,94000.0,kilometer,Cl 600,CL 600,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Peugeot,,72600.0,kilometer,406,406 Coupé 3.0 V6 Pack,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Renault,,91000.0,kilometer,Alpine a110,null,false,car,,,
+Coupé,silver met.,,,,Zuzwil,,Chrysler,,66900.0,kilometer,Viper,Viper GTS,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Ford,,1000.0,kilometer,,RS200 EVO Gruppe B,false,car,,,
+Coupé,blue met.,,,,Zuzwil,,Ferrari,,200.0,kilometer,458,458 Italia 4.5 V8 Speciale,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Ferrari,,37000.0,kilometer,612,612,false,car,,,l_km_consumption
+Cabriolet,gray met.,,,,Zuzwil,,Mercedes-benz,,13800.0,kilometer,Slk 200,SLK 200,false,car,,,l_km_consumption
+Coupé,green met.,,,,Zuzwil,,Mercedes-benz,,99500.0,kilometer,S 600,S 600,false,car,,,
+Cabriolet,black met.,,,,Basel,,Rolls-royce,,70000.0,kilometer,Corniche,Convertible,false,car,,,
+Kombi,red met,,,,Zuzwil,,Audi,,71900.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Alfa romeo,,69300.0,kilometer,Spider,Spider 2.0,false,car,,,
+Pick-up,black met.,,,,Zuzwil,,Toyota,,26900.0,kilometer,Dyna,Bergungsfahrzeug,false,car,,,
+Limousine,silver met.,,,,Zuzwil,,Mercedes-benz,,29800.0,kilometer,E 250,E 250 CGI BlueEff Avgarde,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Porsche,,139900.0,kilometer,911,911 Carrera 4S,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Ford,,1.0,kilometer,,T - Roadster,false,car,,,
+Limousine,gray met.,,,,Zuzwil,,Mercedes-benz,,29200.0,kilometer,E 500,E 500 Avantgarde,false,car,,,l_km_consumption
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Mercedes-benz,,2000.0,kilometer,Ml 63 amg,ML 63 AMG 4Matic,false,car,,,l_km_consumption
+Limousine,green,,,,Zuzwil,,Bmw,,54600.0,kilometer,M5,M5,false,car,,,l_km_consumption
+SUV / Geländewagen,black,,,,Zuzwil,,Porsche,,114000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Limousine,black met.,,,,Zuzwil,,Saab,,134600.0,kilometer,9-3,9-3 2.0i-16 TS Aero,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Bentley,,36900.0,kilometer,Continental,Continental GT Speed 6.0,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Renault,,222300.0,kilometer,Alpine,Alpine A310 V6,false,car,,,
+Coupé,blue,,,,Zuzwil,,Lamborghini,,26800.0,kilometer,Diablo,Diablo 5.7,false,car,,,
+SUV / Geländewagen,black met.,,,,Zuzwil,,Kaiser,,18000.0,kilometer,,CJ-5 12V ARMEEFAHRZEUG,false,car,,,
+Kombi,white,,,,Zuzwil,,Audi,,31500.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Kombi,gray,,,,Zuzwil,,Audi,,41900.0,kilometer,Rs6,RS6 Avant 5.0 V10 quattro,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Porsche,,52900.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Coupé,gray met.,,,,Zuzwil,,Lamborghini,,24000.0,kilometer,Gallardo,Gallardo LP560-4 Coupé,false,car,,,l_km_consumption
+Kombi,black met.,,,,Zuzwil,,Bmw,,112300.0,kilometer,523,523i Touring,false,car,,,l_km_consumption
+Coupé,black met.,,,,Zuzwil,,Porsche,,63500.0,kilometer,911,911 Turbo,false,car,,,
+Cabriolet,silver met.,,,,Zuzwil,,Mercedes-benz,,96600.0,kilometer,Sl 500,SL 500,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Bmw,,119600.0,kilometer,750,750i,false,car,,,l_km_consumption
+Coupé,blue met.,,,,Zuzwil,,Ford (usa),,4300.0,kilometer,Mustang,5.0 GT Premium 50 Years,false,car,,,l_km_consumption
+Cabriolet,brown met.,,,,Zuzwil,,Bmw,,22800.0,kilometer,Z4,Z4 2.5i Roadster,false,car,,,l_km_consumption
+Coupé,yellow,,,,Zuzwil,,Ferrari,,28100.0,kilometer,F355,F355 Berlinetta,false,car,,,l_km_consumption
+SUV / Geländewagen,gray met.,,,,Zuzwil,,Porsche,,36600.0,kilometer,Cayenne,Cayenne Turbo S,false,car,,,l_km_consumption
+SUV / Geländewagen,red,,,,Zuzwil,,Land rover,,90400.0,kilometer,Range rover,Range Rover 4.4 V8 HSE,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Nissan,,98000.0,kilometer,Sunny,Sunny 2.0 16V GTI-R,false,car,,,
+Coupé,blue met.,,,,Zuzwil,,Aston martin,,97200.0,kilometer,Db7,DB7,false,car,,,l_km_consumption
+SUV / Geländewagen,beige met.,,,,Zuzwil,,Bmw,,40500.0,kilometer,X5,X5 4.4i,false,car,,,l_km_consumption
+Coupé,black,,,,Zuzwil,,Renault,,36900.0,kilometer,Alpine,2700VA,false,car,,,
+Coupé,white,,,,Zuzwil,,Ferrari,,26000.0,kilometer,575m,575M,false,car,,,l_km_consumption
+Cabriolet,white,,,,Zuzwil,,Ferrari,,11700.0,kilometer,458,458 Spider Italia 4.5 V8,false,car,,,l_km_consumption
+Kombi,blue met.,,,,Zuzwil,,Audi,,39300.0,kilometer,Rs6,RS6 Avant quattro,false,car,,,l_km_consumption
+SUV / Geländewagen,red,,,,Zuzwil,,Porsche,,79000.0,kilometer,Cayenne,Cayenne Turbo,false,car,,,l_km_consumption
+Cabriolet,black met.,,,,Zuzwil,,Mercedes-benz,,30400.0,kilometer,Sl 500,SL 500,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Nissan,,2300.0,kilometer,Skyline,R34 GTR,false,car,,,
+Limousine,blue met.,,,,Zuzwil,,Jaguar,,161400.0,kilometer,Xj,XJ 4.0 Sovereign,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Bmw,,124800.0,kilometer,330,330xi,false,car,,,l_km_consumption
+Coupé,anthrazit met.,,,,Zuzwil,,Porsche,,54000.0,kilometer,924,Turbo,false,car,,,
+Coupé,gray,,,,Zuzwil,,Ferrari,,8100.0,kilometer,575m,575M,false,car,,,l_km_consumption
+Limousine,green,,,,Zuzwil,,Lancia,,13000.0,kilometer,,Rally 037 stradale,false,car,,,
+Coupé,black,,,,Zuzwil,,Porsche,,77800.0,kilometer,911,911 Carrera 4,false,car,,,l_km_consumption
+Limousine,silver met.,,,,Zuzwil,,Vw,,105800.0,kilometer,Golf,Golf R32 4Motion,false,car,,,l_km_consumption
+Coupé,silver met.,,,,Zuzwil,,Porsche,,94500.0,kilometer,911,911 Turbo,false,car,,,l_km_consumption
+Limousine,beige met.,,,,Zuzwil,,Mercedes-benz,,49900.0,kilometer,E 55 amg,E 55 AMG Avantgarde,false,car,,,l_km_consumption
